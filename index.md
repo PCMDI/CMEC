@@ -12,7 +12,7 @@ title: CMEC
         <h3>U.S. Sponsor</h3>
         <a target="_blank" href="http://energy.gov">
           <h4 class="muted">DOE</h4>
-          <img src="{{site.url}}/Data/media/images/doe.svg" class="thumbnail">
+          <img src="Data/media/images/doe.svg" class="thumbnail">
         </a>
     </div>
     <div class="span8">
