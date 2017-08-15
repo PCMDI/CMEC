@@ -1,4 +1,4 @@
 name: Coordinated Model Evaluation Capabilities
 author: webshootertk
 markdown: kramdown
-highlighter: true
+rouge: true
