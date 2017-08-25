@@ -27,3 +27,8 @@ Research ([BER]) program.
     </div>
   </div>
 </div>
+
+[LLNL]: http://www.llnl.gov/
+[cf]:   #
+[aims]: http://aims.llnl.gov/
+[ESGF]: http://esgf.llnl.gov/
