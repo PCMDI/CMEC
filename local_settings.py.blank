@@ -1,0 +1,11 @@
+import os
+
+BASE_DIR =
+
+SECRET_KEY = ''
+
+STATIC_ROOT =
+
+DEBUG =
+
+ALLOWED_HOSTS = [""]
