@@ -1,8 +1,8 @@
-env/
-db.sqlite
-db.sqlite3
-local_settings.py
-*.pyc
-.idea/
-apps/cmec/migrations/
-.DS_store
+_site/
+.sass-cache/
+.jekyll-metadata
+.idea
+*.iml
+out
+gen
+.DS_Store
