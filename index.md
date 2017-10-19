@@ -11,7 +11,7 @@ title: CMEC
     <div class="span4">
         <h3>U.S. Sponsor</h3>
         <a target="_blank" href="http://energy.gov">
-          <h4 class="muted">DOE</h4>
+          <h4 class="muted">FIRST TEST RUN</h4>
           <img src="Data/media/images/doe.svg" class="thumbnail">
         </a>
     </div>
