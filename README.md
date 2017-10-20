@@ -3,7 +3,9 @@ jekyll-bootstrap
 
 ## Coordinated Model Evaluation Capabilities
 
-This is a Jekyll generated website.
+This repo is used for hosting the http://pcmdi.github.io/CMEC web site.
+
+It is a Jekyll generated website.
 * [site](https://jekyllrb.com)
 * [docs](https://jekyllrb.com/docs/home/)
 * [help](https://jekyllrb.com/help/)
