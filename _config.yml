@@ -2,3 +2,5 @@ name: Coordinated Model Evaluation Capabilities
 author: webshootertk
 markdown: kramdown
 rouge: true
+
+theme: jekyll-theme-cayman
