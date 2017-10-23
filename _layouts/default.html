@@ -14,8 +14,8 @@
     <!-- Custom styles for this template -->
     <style>
       body {
-        padding-top: 50px;
-        padding-bottom: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
       }
     </style>
   </head>
@@ -30,37 +30,27 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="{{site.baseurl}}/"><img src="Data/media/images/place_holder_sm.png"/> &nbsp; Home </a>
+          <a class="brand" href="{{site.baseurl}}/"> &nbsp; CMEC </a>
           <a class="brand" href="{{site.baseurl}}/about.html"> &nbsp; About </a>
           <a class="brand" href="{{site.baseurl}}/capabilities.html"> &nbsp; Capabilities </a>
           <a class="brand" href="{{site.baseurl}}/results.html"> &nbsp; Results </a>
           <a class="brand" href="{{site.baseurl}}/protocols.html"> &nbsp; Protocols </a>
           <a class="brand" href="{{site.baseurl}}/resources.html"> &nbsp; Resources </a>
           <a class="brand" href="{{site.baseurl}}/contact.html"> &nbsp; Contacts </a>
-
-          <div class="nav-collapse">
-            <ul class="nav">
-              {% assign pages_list = site.pages | sort:"weight" %}
-              {% assign group = 'navigation' %}
-              {% include pages_list %}
-            </ul>
-          </div>
         </div>
       </div>
     </div>
     <div style="margin-bottom: 60px;"></div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
 
-<div class="container">
-
+    <div class="container">
         {{content}}
-</div>
-  <br>
-  <hr>
-  {% include footer.html %}
-      <hr>
+    </div>
 
-
+    <br>
+    <hr>
+    {% include footer.html %}
+    <hr>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
