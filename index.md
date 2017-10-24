@@ -3,13 +3,17 @@ layout: default
 title: CMEC
 ---
 
-<h1>CMEC</h1>Coordinated Model Evaluation Capabilities
+CMEC
+====
+
+Coordinated Model Evaluation Capabilities
+-----------------------------------------
 
 <!-- ILAMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="ilamb.html">ILAMB</a></h3>
 <p>Benchmark the biogeochemical cycle of global and regional land models against over 24 variables and 60 observational datasets.</p>
-<img src="http://ilamb.ornl.gov/CLM/EcosystemandCarbonCycle/GrossPrimaryProductivity/GBAF/CLM50GSWP3_global_bias.png">
+<a border="0" href="ilamb.html"><img src="http://ilamb.ornl.gov/CLM/EcosystemandCarbonCycle/GrossPrimaryProductivity/GBAF/CLM50GSWP3_global_bias.png"></a>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
 <a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
