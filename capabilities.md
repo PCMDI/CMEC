@@ -11,9 +11,8 @@ title: Capabilities
 <p>Benchmark the physical climate models against over X variables and Y observational datasets.</p>
 <img src="">
 <strong>Quick links</strong>:&nbsp;
-<a href="">Repository</a>,
-<a href="">Installation</a>,
-<a href="">Tutorials</a>,
+<a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
+<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>,
 <a href="">Sample Results</a>
 </div>
 
