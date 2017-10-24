@@ -1,8 +1,8 @@
 ---
 layout: default
-title: about
+title: Contacts
 ---
 
-## Contact
+## Contacts
 
 CMEC contacts coming Soon ...
