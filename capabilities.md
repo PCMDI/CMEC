@@ -1,10 +1,6 @@
 ---
 layout: default
-<<<<<<< HEAD
-title: capabilities
-=======
-title: Capabilities
->>>>>>> 7bc58187b70e2af16022988460fb36faddce2d15
+title: Capabilites
 ---
 
 ## Capabilities
