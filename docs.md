@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMEC
+title: CMEC Docs
 ---
 
 #### Updating content and testing on the dev site  <http://pcmdi.github.io/CMEC>

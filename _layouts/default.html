@@ -5,7 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Coordinated Model Evaluation Capabilities" />
     <meta name="author" content="{{ site.author }}">
-    <link rel="shortcut icon" href="{{site.baseurl}}/Data/media/images/place_holder.png">
+    <link rel="shortcut icon" href="{{site.baseurl}}/Data/media/images/cmec-favcon.png">
+    <style type="text/css">
+    #bib p {
+        text-indent: -50px;
+        margin-left: 50px;
+    }
+    </style>
 
     <title>{{ page.title }}</title>
 
@@ -14,8 +20,8 @@
     <!-- Custom styles for this template -->
     <style>
       body {
-        padding-top: 50px;
-        padding-bottom: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
       }
     </style>
   </head>
@@ -30,19 +36,15 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="{{site.baseurl}}/"><img src="Data/media/images/place_holder_sm.png"/> &nbsp; Home </a>
-          <a class="brand" href="{{site.baseurl}}/about.html"> &nbsp; About </a>
-          <a class="brand" href="{{site.baseurl}}/capabilities.html"> &nbsp; Capabilities </a>
-          <a class="brand" href="{{site.baseurl}}/results.html"> &nbsp; Results </a>
-          <a class="brand" href="{{site.baseurl}}/protocols.html"> &nbsp; Protocols </a>
-          <a class="brand" href="{{site.baseurl}}/resources.html"> &nbsp; Resources </a>
-          <a class="brand" href="{{site.baseurl}}/contact.html"> &nbsp; Contacts </a>
-
           <div class="nav-collapse">
             <ul class="nav">
-              {% assign pages_list = site.pages | sort:"weight" %}
-              {% assign group = 'navigation' %}
-              {% include pages_list %}
+              <li><a class="brand" href="{{site.baseurl}}/"><img src="Data/media/images/logo_sm.png"/> &nbsp; Home </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/about.html"> &nbsp; About </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/capabilities.html"> &nbsp; Capabilities </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/results.html"> &nbsp; Results </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/protocols.html"> &nbsp; Protocols </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/resources.html"> &nbsp; Resources </a></li>
+              <li><a class="brand" href="{{site.baseurl}}/contact.html"> &nbsp; Contacts </a></li>
             </ul>
           </div>
         </div>
@@ -51,16 +53,16 @@
     <div style="margin-bottom: 60px;"></div>
     <!-- Main jumbotron for a primary marketing message or call to action -->
 
-<div class="container">
-
+    <div class="hero-unit">
+    <div class="container">
         {{content}}
-</div>
-  <br>
-  <hr>
-  {% include footer.html %}
-      <hr>
+    </div>
+    </div>
 
-
+    <br>
+    <hr>
+    {% include footer.html %}
+    <hr>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
