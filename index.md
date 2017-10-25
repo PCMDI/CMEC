@@ -3,6 +3,8 @@ layout: default
 title: CMEC
 ---
 
+<div id="hero-bg">
+
 CMEC
 ====
 
@@ -23,4 +25,5 @@ To date, many ad hoc analysis packages have been developed to target selected as
 
 <p>Eyring, V., S. Bony, G. A. Meehl, C. A. Senior, B. Stevens, R. J. Stouffer, K. E. Taylor (2016), Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, <i>Geosci. Model Dev.</i>, 9:1937&ndash;1958, doi:<a target="_blank" href="https://dx.doi.org/10.5194/gmd-9-1937-2016">10.5194/gmd-9-1937-2016</a>.</p>
 
+</div>
 </div>
