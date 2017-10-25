@@ -8,12 +8,11 @@ title: Capabilities
 <!-- PMP -->
 <div class="span4 box">
 <h3><a class="reference internal" href="PMP.html">PMP</a></h3>
-<p>Benchmark the physical climate models against over X variables and Y observational datasets.</p>
+<p>Provides a diverse suite of physical summary statistics across space and time scales.</p>
 <img src="">
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>,
-<a href="">Sample Results</a>
 </div>
 
 <!-- ILAMB -->
