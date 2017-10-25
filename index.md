@@ -3,11 +3,18 @@ layout: default
 title: CMEC
 ---
 
+<table width="100%"><tr align="center">
+<td><img alt="CMEC Logo" width="100" height="100" src="/Data/media/images/logo.png"></td>
+<td>
+
 CMEC
 ====
 
 Coordinated Model Evaluation Capabilities
 -----------------------------------------
+
+</td>
+</tr></table>
 
 CMEC is an effort to coordinate a diverse set of analysis packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs).  Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office of Biological and Environmental Research (BER), Regional and Global Climate Modeling Program (RGCM).  As CMEC advances, we expect that other analysis packages will be included from DOE and other US and international agencies.      
  
