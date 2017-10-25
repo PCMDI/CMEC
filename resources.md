@@ -1,5 +1,6 @@
 ---
 layout: default
+CMEC resources coming Soon ...
 title: about
 ---
 
