@@ -12,7 +12,7 @@ title: Capabilites
 <img src="">
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
-<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>,
+<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>
 </div>
 ***
 
@@ -28,7 +28,7 @@ title: Capabilites
 <a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
 <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
 </div>
-
+***
 <!-- IOMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="iomb.html">IOMB</a></h3>
@@ -40,7 +40,7 @@ title: Capabilites
 <a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
 <a href="http://ilamb.ornl.gov/CMIP5">Sample Results</a>
 </div>
-
+***
 <!-- TECA -->
 <div class="span4 box">
 <h3><a class="reference internal" href="TECA.html">TECA</a></h3>
@@ -53,14 +53,4 @@ title: Capabilites
 <a href="">Sample Results</a>
 </div>
 
-<!-- ARM -->
-<div class="span4 box">
-<h3><a class="reference internal" href="ARM.html">ARM</a></h3>
-<p>Benchmark the cloud and aerosol models against over X variables and Y observational datasets.</p>
-<img src="">
-<strong>Quick links</strong>:&nbsp;
-<a href="">Repository</a>,
-<a href="">Installation</a>,
-<a href="">Tutorials</a>,
-<a href="">Sample Results</a>
-</div>
+
