@@ -14,6 +14,7 @@ title: Capabilites
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>,
 </div>
+***
 
 <!-- ILAMB -->
 <div class="span4 box">
