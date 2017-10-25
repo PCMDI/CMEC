@@ -1,11 +1,6 @@
 ---
 layout: default
-<<<<<<< HEAD
-CMEC resources coming Soon ...
-title: about
-=======
 title: Resources
->>>>>>> 7bc58187b70e2af16022988460fb36faddce2d15
 ---
 
 ## Resources

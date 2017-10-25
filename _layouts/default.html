@@ -1,73 +1,28 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Coordinated Model Evaluation Capabilities" />
-    <meta name="author" content="{{ site.author }}">
-    <link rel="shortcut icon" href="{{site.baseurl}}/Data/media/images/cmec-favcon.png">
-    <style type="text/css">
-    #bib p {
-        text-indent: -50px;
-        margin-left: 50px;
-    }
-    </style>
-
+    <meta name="theme-color" content="#157878">
+    <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/cmec-favcon.png">
     <title>{{ page.title }}</title>
-
-    <!-- Bootstrap core CSS -->
-    <link id="bootstrap-css" href="{{site.baseurl}}/Data/media/css/bootstrap.min.css" rel="stylesheet"> 
-    <!-- Custom styles for this template -->
-    <style>
-      body {
-        padding-top: 10px;
-        padding-bottom: 10px;
-      }
-    </style>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-
   <body>
+    <section class="page-header">
+      {% include page-header.html %}
+    </section>
 
-    <div class="navbar navbar-default navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <div class="nav-collapse">
-            <ul class="nav">
-              <li><a class="brand" href="{{site.baseurl}}/"><img src="Data/media/images/logo_sm.png"/> &nbsp; Home </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/about.html"> &nbsp; About </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/capabilities.html"> &nbsp; Capabilities </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/results.html"> &nbsp; Results </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/protocols.html"> &nbsp; Protocols </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/resources.html"> &nbsp; Resources </a></li>
-              <li><a class="brand" href="{{site.baseurl}}/contact.html"> &nbsp; Contacts </a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div style="margin-bottom: 60px;"></div>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <section class="main-content">
+      {{ content }}
 
-    <div class="hero-unit">
-    <div class="container">
-        {{content}}
-    </div>
-    </div>
-
-    <br>
-    <hr>
-    {% include footer.html %}
-    <hr>
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="{{site.baseurl}}/Data/media/js/bootstrap.min.js"></script>
-    <script src="{{site.baseurl}}/Data/media/js/links.js"></script>
+      <footer class="site-footer">
+        {% include footer.html %}
+      </footer>
+    </section>
   </body>
 </html>
