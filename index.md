@@ -4,7 +4,7 @@ title: CMEC
 ---
 
 <table width="100%"><tr align="center">
-<td><img alt="CMEC Logo" width="100" height="100" src="Data/media/images/logo.png"></td>
+<td><img alt="CMEC Logo" width="150" height="150" src="Data/media/images/logo.png"></td>
 <td>
 <h1>CMEC</h1>
 <h2>Coordinated Model Evaluation Capabilities</h2>
