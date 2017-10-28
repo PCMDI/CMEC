@@ -9,7 +9,7 @@ title: Capabilites
 <div class="span4 box">
 <h3><a class="reference internal" href="PMP.html">PMP</a></h3>
 <p>Provides a diverse suite of physical summary statistics across space and time scales.</p>
-<a border="0" href="pmp.html"><img src="http://{{site.baseurl}}/assets/images/pmp_cover_sm.tiff"></a>
+<a border="0" href="pmp.html"><img src="http://{{site.baseurl}}/assets/images/pmp_cover_sm.png"></a>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>
