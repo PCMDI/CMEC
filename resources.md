@@ -11,7 +11,7 @@ title: Resources
 
 <p> Gleckler, P.J., K.E., Taylor, C. Doutriaux, 2008:  Performance metrics for climate models, J.Geophys.Res., 113, D06104, doi:10.1029/2007JD008972 </p>
 
-Gleckler, P. J., C. Doutriaux, P. J. Durack, K. E. Taylor, Y. Zhang, and D. N. Williams, E. Mason, and J. Servonnat (2016), A more powerful reality test for climate models, Eos, 97. doi: 10.1029/2016EO051663
+<p> Gleckler, P. J., C. Doutriaux, P. J. Durack, K. E. Taylor, Y. Zhang, and D. N. Williams, E. Mason, and J. Servonnat (2016), A more powerful reality test for climate models, Eos, 97. doi: 10.1029/2016EO051663 </p>
 
 <a name="Hoffman_ILAMB_20170401"></a>
 <p>Hoffman, Forrest M., C. D. Koven, G. Keppel-Aleks, D. M. Lawrence, W. J. Riley, J. T. Randerson, A. Ahlstr&ouml;m, G. Abramowitz, D. D. Baldocchi, M. J. Best, B. Bond-Lamberty, M. G. De Kauwe, A. S. Denning, A. R. Desai, V. Eyring, J. B. Fisher, R. A. Fisher, P. J. Gleckler, M. Huang, G. Hugelius, A. K. Jain, N. Y. Kiang, H. Kim, R. D. Koster, S. V. Kumar, H. Li, Y. Luo, J. Mao, N. G. McDowell, U. Mishra, P. R. Moorcroft, G. S. H. Pau, D. M. Ricciuto, K. Schaefer, C. R. Schwalm, S. P. Serbin, E. Shevliakova, A. G. Slater, J. Tang, M. Williams, J. Xia, C. Xu, R. Joseph, and D. Koch (2017), International Land Model Benchmarking (ILAMB) 2016 Workshop Report, Technical Report DOE/SC-0186, U.S. Department of Energy, Office of Science, Germantown, Maryland, USA, doi:<a target="_blank" href="https://dx.doi.org/10.2172/1330803">10.2172/1330803</a>.</p>
