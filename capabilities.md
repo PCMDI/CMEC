@@ -12,7 +12,7 @@ title: Capabilites
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
 <br>
 <strong>Quick links</strong>:&nbsp;
-<a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>,
+<a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a> and
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>
 </div>
 ***
