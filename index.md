@@ -10,12 +10,3 @@ A primary motivation for CMEC is to analyze model simulations that are contribut
  
 To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations.  With the growing scope of CMIP and expectations for efficient “quick look” results, there is a clear need for the community of CMIP analysts to work together.  CMEC is establishing a framework for the developers of these capabilities to collaborate and to deliver a unified set of results.   
 
-### References:
-
-<div id="bib">
-
-<p>Meehl, G. A., R. Moss, K. E. Taylor, V. Eyring, R. J. Stouffer, S. Bony, and B. Stevens (2014), Climate model intercomparisons: Preparing for the next phase, <i>Eos Trans., AGU</i>, 95(9):77, doi:<a target="_blank" href="https://dx.doi.org/10.1002/2014EO090001">10.1002/2014EO090001</a>.</p>
-
-<p>Eyring, V., S. Bony, G. A. Meehl, C. A. Senior, B. Stevens, R. J. Stouffer, K. E. Taylor (2016), Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, <i>Geosci. Model Dev.</i>, 9:1937&ndash;1958, doi:<a target="_blank" href="https://dx.doi.org/10.5194/gmd-9-1937-2016">10.5194/gmd-9-1937-2016</a>.</p>
-
-</div>
