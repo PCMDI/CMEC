@@ -7,7 +7,7 @@ title: Capabilites
 
 <!-- PMP -->
 <div class="span4 box">
-<h3><a class="reference internal" href="PMP.html">PMP</a></h3>
+<h3><a class="reference internal" href="PMP.html">The PCMDI Metrics Package (PMP)</a></h3>
 <p>Provides a diverse suite of physical summary statistics across space and time scales.</p>
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
 <br>
@@ -19,7 +19,7 @@ title: Capabilites
 
 <!-- ILAMB -->
 <div class="span4 box">
-<h3><a class="reference internal" href="ilamb.html">ILAMB</a></h3>
+<h3><a class="reference internal" href="ilamb.html">The International Land Model Benchmarking Project (ILAMB) </a></h3>
 <p>Benchmark the biogeochemical cycle of global and regional land models against over 24 variables and 60 observational datasets.</p>
 <a border="0" href="ilamb.html"><img src="http://ilamb.ornl.gov/CLM/EcosystemandCarbonCycle/GrossPrimaryProductivity/GBAF/CLM50GSWP3_global_bias.png"></a>
 <br>
