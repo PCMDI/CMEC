@@ -9,7 +9,6 @@ ILAMB
 International Land Model Benchmarking
 -------------------------------------
 
-
 The International Land Model Benchmarking (ILAMB) project is a model-data intercomparison and integration project designed to improve the performance of land models and, in parallel, improve the design of new measurement campaigns to reduce uncertainties associated with key land surface processes. Building upon past model evaluation studies, described below, the goals of ILAMB are to:
 
 1. develop internationally accepted benchmarks for land model performance,
@@ -20,7 +19,7 @@ The International Land Model Benchmarking (ILAMB) project is a model-data interc
 
 4. support the design and development of a new, open source, benchmarking software system for use by the international community.
 
-<table align="right"><tr><td><a border="0" target="_blank" href="https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_V10_web.pdf"><img width="193" height="250" src="https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_cover_small.jpg"></a></td></tr></table>
+<a border="0" align="right" target="_blank" href="https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_V10_web.pdf"><img width="193" height="250" src="https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_cover_small.jpg"></a>
 
 Improving the representation of the carbon cycle and land surface
 processes in climate models requires extensive comparison of model results

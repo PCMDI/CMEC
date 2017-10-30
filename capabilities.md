@@ -16,38 +16,46 @@ title: Capabilites
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>
 </div>
 
-***
+******
 
 <!-- ILAMB -->
 <div class="span4 box">
-<h3><a class="reference internal" href="ilamb.html">The International Land Model Benchmarking Project (ILAMB) </a></h3>
+<h3><a class="reference internal" href="ilamb.html">The International Land Model Benchmarking (ILAMB) Package</a></h3>
 <p>Benchmark the biogeochemical cycle of global and regional land models against over 24 variables and 60 observational datasets.</p>
 <center><a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
+<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>, and
+<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>
+<!--
 <a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
 <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
+-->
 </div>
-***
+
+******
+
 <!-- IOMB -->
 <div class="span4 box">
-<h3><a class="reference internal" href="iomb.html">IOMB</a></h3>
+<h3><a class="reference internal" href="iomb.html">The International Ocean Model Benchmarking (IOMB) Package</a></h3>
 <p>Benchmark the biogeochemical cycle of global and regional ocean models against over X variables and Y observational datasets.</p>
-<img src="http://ilamb.ornl.gov/IOMB/PhysicalQuantities/Temperature/WOA/Benchmark_global_timeint.png">
+<center><a border="0" href="iomb.html"><img src="{{site.baseurl}}/assets/images/iomb_temperature_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
+<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>, and
+<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>
+<!--
 <a href="http://ilamb.ornl.gov/CMIP5">Sample Results</a>
+-->
 </div>
-***
+
+******
+
 <!-- TECA -->
 <div class="span4 box">
-<h3><a class="reference internal" href="TECA.html">TECA</a></h3>
+<h3><a class="reference internal" href="teca.html">The Toolkit for Extremes Climate Analysis (TECA)</a></h3>
 <p>Diagnose physical phenomena of extreme weather and climate.</p>
 <img src="">
 <strong>Quick links</strong>:&nbsp;
@@ -56,5 +64,4 @@ title: Capabilites
 <a href="">Tutorials</a>,
 <a href="">Sample Results</a>
 </div>
-
 
