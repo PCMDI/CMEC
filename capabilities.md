@@ -56,7 +56,7 @@ title: Capabilites
 <!-- TECA -->
 <div class="span4 box">
 <h3><a class="reference internal" href="teca.html">The Toolkit for Extremes Climate Analysis (TECA)</a></h3>
-<p>Diagnose physical phenomena of extreme weather and climate.</p>
+<p>TECA is a general purpose tool for detecting discrete events in climate model output.</p>
 <img src="">
 <strong>Quick links</strong>:&nbsp;
 <a href="">Repository</a>,
