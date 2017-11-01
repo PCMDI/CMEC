@@ -12,7 +12,7 @@ The sample results available include the following:
 ### Physical climate emphasis:
 
 * [CMIP5 AMIP and Historical climatologies](physical_results.html "CMIP5 AMIP and Historical climatologies")
-* [CMIP5 Historical inter-annual variability](physical_results_extropvar.md "CMIP5 Historical extra-tropical variability")
+* [CMIP5 Historical inter-annual variability](physical_results_extropvar.html "CMIP5 Historical extra-tropical variability")
 
 
 ### Biogeochemical climate emphasis:
