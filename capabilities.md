@@ -59,9 +59,9 @@ title: Capabilites
 <p>TECA is a general purpose tool for detecting discrete events in climate model output.</p>
 <img src="">
 <strong>Quick links</strong>:&nbsp;
-<a href="">Repository</a>,
-<a href="">Installation</a>,
-<a href="">Tutorials</a>,
-<a href="">Sample Results</a>
+<a href="https://github.com/LBL-EESA/TECA">Repository</a>,
+<a href="https://github.com/LBL-EESA/TECA_superbuild">Installation</a>,
+<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>,
+
 </div>
 
