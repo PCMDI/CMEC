@@ -61,7 +61,7 @@ title: Capabilites
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/LBL-EESA/TECA">Repository</a>,
 <a href="https://github.com/LBL-EESA/TECA_superbuild">Installation</a>,
-<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>,
+<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>
 
 </div>
 
