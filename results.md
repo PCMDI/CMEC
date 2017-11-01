@@ -10,11 +10,10 @@ In preparation for CMIP6, the CMEC capabilities will be used to provide summarie
 The sample results available include the following:
 
 <div class="span4 box">
-Physical climate emphasis:
-        
+<h2>Physical climate emphasis:</h2>
 <p><a class="reference internal" href="physical_results.html">CMIP5 AMIP and Historical climatologies</a><p>
 CMIP5 Historical inter-annual variability
 </div>
 
-Bio-geochemical climate emphasis:
+<h2>Bio-geochemical climate emphasis:</h2>
         
