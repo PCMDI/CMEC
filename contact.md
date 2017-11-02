@@ -11,5 +11,5 @@ Forrest M. Hoffman <forrest@climatemodeling.org>
 
 ## TECA:
 
-William Collins <wdcollins@lbl.gov>
+William D. Collins <wdcollins@lbl.gov>
 
