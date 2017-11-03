@@ -5,7 +5,7 @@ title: Capabilites
 
 ## Capabilities
 
-**Currently participating in CMEC:
+**Currently participating in CMEC:**
 
 The PCMDI Metrics Package (PMP)
 The International Land Model Benchmarking (ILAMB) Package
