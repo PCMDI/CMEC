@@ -5,12 +5,12 @@ title: Capabilites
 
 ## Capabilities
 
-### **Currently participating in CMEC:**
+**Currently participating in CMEC:
 
-### The PCMDI Metrics Package (PMP)
-### The International Land Model Benchmarking (ILAMB) Package
-### The International Ocean Model Benchmarking (IOMB) Package
-### The Toolkit for Extremes Climate Analysis (TECA)
+The PCMDI Metrics Package (PMP)
+The International Land Model Benchmarking (ILAMB) Package
+The International Ocean Model Benchmarking (IOMB) Package
+The Toolkit for Extremes Climate Analysis (TECA)
 
 More info below...
 
