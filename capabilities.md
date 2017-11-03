@@ -7,7 +7,7 @@ title: Capabilites
 
 <!-- PMP -->
 <div class="span4 box">
-<h3><a class="reference internal" href="PMP.html">The PCMDI Metrics Package (PMP)</a></h3>
+<h3><a class="reference internal" href="pmp.html">The PCMDI Metrics Package (PMP)</a></h3>
 <p>Provides a diverse suite of physical summary statistics across space and time scales.</p>
 <center><a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a></center>
 <br>
