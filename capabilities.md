@@ -36,7 +36,7 @@ More info below...
 <!-- ILAMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="ilamb.html">The International Land Model Benchmarking (ILAMB) Package</a></h3>
-<p>Benchmark the biogeochemical cycle of global and regional land models against over 24 variables and 60 observational datasets.</p>
+<p>Benchmark the biogeochemical cycle of global and regional land models against more than 24 variables and 60 observational datasets.</p>
 <center><a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
@@ -54,8 +54,9 @@ More info below...
 <!-- IOMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="iomb.html">The International Ocean Model Benchmarking (IOMB) Package</a></h3>
-<p>Benchmark the biogeochemical cycle of global and regional ocean models against over X variables and Y observational datasets.</p>
+<p>Benchmark the biogeochemical cycle of global and regional ocean models against more than 6 variables and observational datasets.</p>
 <center><a border="0" href="iomb.html"><img src="{{site.baseurl}}/assets/images/iomb_temperature_sm.png"></a></center>
+<p>IOMB uses the same code base as ILAMB (described above). The links below refer to ILAMB instead of IOMB.</p>
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,

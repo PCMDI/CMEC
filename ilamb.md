@@ -5,8 +5,8 @@ title: ILAMB
 
 ## The International Land Model Benchmarking (ILAMB) Package
 
-The International Land Model Benchmarking (ILAMB) Package was designed to address to goals of the ILAMB Project, 
-a model&ndash;data intercomparison and integration activity.
+The International Land Model Benchmarking (ILAMB) Package was designed to address the goals of the ILAMB Project, 
+a model--data intercomparison and integration activity.
 ILAMB designed to improve the performance of land models and, in parallel, improve the design of new measurement campaigns to reduce uncertainties associated with key land surface processes. Building upon past model evaluation studies, described below, the goals of ILAMB are to:
 
 1. develop internationally accepted benchmarks for land model performance,
@@ -26,11 +26,11 @@ data-model intercomparisons have strengthened the representation
 of key processes in land models, but often this information has not
 been easily accessible for use by other modeling teams or in future
 intercomparisons. Specifically, there is a large cost in developing
-the infrastructure to make meaningful model&ndash;data comparisons, even when
+the infrastructure to make meaningful model--data comparisons, even when
 the data are freely and easily available. Further, the development of
-sophisticated model diagnostics programs—that can fully exploit
+sophisticated model diagnostics programs---that can fully exploit
 the richness of large Earth System data sets like satellite or
-Fluxnet measurements—are outside the scope of any single modeling
+Fluxnet measurements---are outside the scope of any single modeling
 center. Thus, an important direction for the field is the development
 of a community-based model evaluation system that is open source and
 modular, allowing for contributions by many different modeling and
