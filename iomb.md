@@ -8,8 +8,9 @@ title: IOMB
 The International Ocean Model Benchmarking (IOMB) Package is used
 to evaluate marine biogeochemistry models through comparisons with
 observations.
-IOMB uses the same code base as [ILAMB](ilamb.html "ILAMB"), so some of
-the links below refer to ILAMB instead of IOMB.
+IOMB uses the same code base as the [International Land Model Benchmarking
+(ILAMB) Package](ilamb.html "ILAMB"), so some of the links below refer
+to ILAMB instead of IOMB.
 
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
