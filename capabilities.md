@@ -5,16 +5,20 @@ title: Capabilites
 
 ## Capabilities
 
-**Currently participating in CMEC:**
+The U.S. Department of Energy is coordinating the development and
+distribution of community software tools designed to evaluate the fidelity
+of Earth system models and their component models.  Collectively called
+the [Coodinated Model Evaluation Capabilities (CMEC)](./ "CMEC"), these
+tools offer a wide range of benchmarking and diagnostic capabilities
+described below. Tools currently participating in CMEC:
 
-The PCMDI Metrics Package (PMP)
+* The PCMDI Metrics Package (PMP)
 
-The International Land Model Benchmarking (ILAMB) Package
+* The International Land Model Benchmarking (ILAMB) Package
 
-The International Ocean Model Benchmarking (IOMB) Package
+* The International Ocean Model Benchmarking (IOMB) Package
 
-The Toolkit for Extremes Climate Analysis (TECA)
-
+* The Toolkit for Extremes Climate Analysis (TECA)
 
 More info below...
 
@@ -23,7 +27,7 @@ More info below...
 <!-- PMP -->
 <div class="span4 box">
 <h3><a class="reference internal" href="pmp.html">The PCMDI Metrics Package (PMP)</a></h3>
-<p>Provides a diverse suite of physical summary statistics across space and time scales.</p>
+<p>PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and inter-annual time scales. It compares these variables with global satellite remote sensing and reanalysis data sets, and scores model performance based on RMSE or other metrics. PMP is useful for producing quick, high-level diagnostic summaries of physical atmosphere model performance.</p>
 <center><a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
@@ -36,7 +40,17 @@ More info below...
 <!-- ILAMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="ilamb.html">The International Land Model Benchmarking (ILAMB) Package</a></h3>
-<p>Benchmark the biogeochemical cycle of global and regional land models against more than 24 variables and 60 observational datasets.</p>
+<p>ILAMB provides a variety of in-depth diagnostics of more than 24
+terrestrial biogeochemical and hydrological model variables on annual
+and inter-annual time scales. It compares these variables with over
+60 site-based, regional, and global observational data sets, and
+scores model performance based on a combination bias, RMSE, and seasonal
+cycle metrics. Relationships between many biogeochemical variables
+and physical driver variables are calculated from model results and
+compared with observational estimates. ILAMB is useful for detailed
+exploration of land biogeochemical and hydrological model responses and
+provides an interactive interface designed to enable the user to more
+rapidly understand the underlying drivers of those responses.</p>
 <center><a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
@@ -54,7 +68,14 @@ More info below...
 <!-- IOMB -->
 <div class="span4 box">
 <h3><a class="reference internal" href="iomb.html">The International Ocean Model Benchmarking (IOMB) Package</a></h3>
-<p>Benchmark the biogeochemical cycle of global and regional ocean models against more than 6 variables and observational datasets.</p>
+<p>IOMB provides a variety of in-depth diagnostics of marine biogeochmical
+model variables on annual and inter-annual time scales. It compares a
+growing number of variables with site-based, transect, regional, and
+global observational data sets, and scores model performance based on a
+combination of bias, RMSE, and seasonal cycle metrics. IOMB is useful
+for detailed exploration of ocean biogeochemical model responses and
+provides an interactive interface designed to enable the user to more
+rapidly understand the underlying drivers of those responses.</p>
 <center><a border="0" href="iomb.html"><img src="{{site.baseurl}}/assets/images/iomb_temperature_sm.png"></a></center>
 <p>IOMB uses the same code base as ILAMB (described above). The links below refer to ILAMB instead of IOMB.</p>
 <br>
