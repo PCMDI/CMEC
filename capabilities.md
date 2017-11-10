@@ -27,7 +27,7 @@ More info below...
 <!-- PMP -->
 <div class="span4 box">
 <h3><a class="reference internal" href="pmp.html">The PCMDI Metrics Package (PMP)</a></h3>
-<p>PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and inter-annual time scales. It compares these variables with global satellite remote sensing and reanalysis data sets, and scores model performance based on RMSE or other metrics. PMP is useful for producing quick, high-level diagnostic summaries of physical atmosphere model performance.</p>
+<p>PMP provides a diverse suite of relatively robust high level summary statistics across space and time scales, gauging the differences between models and observations.  Results are available for the simulated atmosphere, ocean, ice and land - with current examples emphasizing atmospheric characterisitics.  PMP is useful for producing quick, high-level summaries of new simulations and putting them into the context of all previous generations of AMIP and CMIP.</p>
 <center><a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
