@@ -41,10 +41,10 @@ measurement teams.
 Multiple past intercomparison efforts provide a foundation a new
 international benchmarking activity. The original C4MIP effort provided
 the community with an elegant conceptual framework for diagnosing the
-causes of model-to-model differences in feedback strength (Friedlingstein
-et al., 2006; Gregory et al., 2009). The Carbon-Land Model Intercomparison
-Project (C-LAMP) also was a first step in this direction (Hoffman et al.,
-2008; Randerson et al., 2009). Nine different classes of observations
+causes of model-to-model differences in feedback strength ([Friedlingstein
+et al., 2006](resources.html#Friedlingstein_JClim_20060715); [Gregory et al., 2009](resources.html#Friedlingstein_JClim_20060715)). The Carbon-Land Model Intercomparison
+Project (C-LAMP) also was a first step in this direction ([Hoffman et al.,
+2008](resources.html#Hoffman_iEMSs-C-LAMP_20080707); [Randerson et al., 2009](resources.html#Randerson_GCB_20091001). Nine different classes of observations
 were used to evaluate two biogeochemistry models (CASA&prime; and CN)
 within the Community Climate System Model. For each class of observations,
 the models received a score based on the quality of the fit with the
@@ -67,7 +67,7 @@ Germany, Japan, Netherlands, Sweden, United Kingdom, and the United
 States and represented 10 different major modeling centers. Plenary
 presentations focused on model benchmarking, emergent constraints,
 evaluation metrics, uncertainty quantification, and field experiment
-and measurement networks. The final workshop report is available
+and measurement networks. The 2016 ILAMB Workshop Report ([Hoffman et al., 2017](resources.html#Hoffman_ILAMB_20170401)) is available
 [here](https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_V10_web.pdf
 "2016 ILAMB Workshop Report").
 
@@ -90,5 +90,7 @@ understand the underlying drivers of those responses.
 <a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
 <a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
 <a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
+<a href="http://ilamb.ornl.gov/ELM">ELM Results</a>,
+and
 <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
 

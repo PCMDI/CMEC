@@ -18,7 +18,7 @@ The sample results available include the following:
 ### Biogeochemical climate emphasis:
 
 * [ILAMB CMIP5 Results](http://ilamb.ornl.gov/CMIP5 "ILAMB CMIP5 Results")
-* ILAMB E3SM Land Model (ELM) Results --- *Coming soon!*
+* [ILAMB E3SM Land Model (ELM) Results](http://ilamb.ornl.gov/ELM "ILAMB ELM Results")
 * [ILAMB Community Land Model (CLM) Results](http://ilamb.ornl.gov/CLM "ILAMB CLM Results")
 * [IOMB Parallel Ocean Program (POP) Results](http://ilamb.ornl.gov/IOMB/ "IOMB POP Results")
 
