@@ -16,7 +16,7 @@ Conventions for interoperability
 Model evaluation capabilities are designed for a variety of purposes and rely on an assortment of analysis tools. As these packages were independently developed, the instructions for use can vary substantially from one package to another. There are however distinct advantages to having some level of coordination between the various packages so that they can, if desired, be operated in a common framework. For example, a modeling group may want to use several CMEC capabilities in their development/analysis workflow, and having some commonality in how they function can greatly facilitate integration. Much as the grass roots development of the CF conventions formed a basis for the CMIP data standards, efforts are underway to establish a set of common syntax that can be used for operating each CMEC capability at a high level without disrupting how they may function independently.
 
 
-Common strategies for software documentation and accessibility
+Strategies for software documentation and accessibility
 ------
 
 All CMEC capabilities are open source.  They are maintained on and are freely available from online repositories such as GitHub and Bitbucket.   Currently, there is little commonality in how such codes are documented.   As a first step, some coordination across capabilities can be encouraged by establishing a set of “best practices”, which will be developed and maintained by the teams participating in CMEC.   Recent technological advancements facilitate the sharing of software packages and environments across different platforms (e.g., via Anaconda and PIP) and are expected to be a key component of the coordinated CMEC effort. 
