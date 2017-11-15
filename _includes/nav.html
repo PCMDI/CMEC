@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{site.baseurl}}/assets/css/nav-hover.css"/>
+
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
         <a class="navbar-brand" href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/assets/images/logo_sm.png"/></a>
@@ -8,27 +10,26 @@
 
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample09">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
+                <li class="nav-item {% if page.url == '/' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/index.html">Home
-                        <span class="sr-only">(current)</span>
                     </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item {% if page.url == '/about.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/about.html"> About </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item{% if page.url == '/capabilities.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/capabilities.html"> Capabilities </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item{% if page.url == '/results.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/results.html"> Results </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item{% if page.url == '/protocols.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/protocols.html"> Protocols </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item{% if page.url == '/resources.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/resources.html"> Resources </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item{% if page.url == '/contact.html' %} active {% endif %}">
                     <a class="nav-link" href="{{site.baseurl}}/contact.html"> Contacts </a>
                 </li>
 
