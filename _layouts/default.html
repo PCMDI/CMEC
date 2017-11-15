@@ -21,7 +21,9 @@
   <body>
     {% include nav.html %}
     <section class="page-header">
-      {% include page-header.html %}
+      {% if page.url == "/" %}
+        {% include page-header.html %}
+      {% endif %}  
     </section>
 
     <section class="main-content">
