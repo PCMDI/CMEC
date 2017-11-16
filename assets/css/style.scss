@@ -3,11 +3,11 @@
 
 @import 'jekyll-theme-cayman';
 
-.page-header{
+.page-header {
     padding: 1rem 1rem 1rem 1rem; 
 }
 
-.project-tagline{
+.project-tagline {
     padding: 0 0 0 0;
     margin: 0 0 0 0;
 }
@@ -17,11 +17,49 @@
 	margin-left: 50px;
 }
 
-.container{
+.container {
     max-width: 54rem;
     background-color: #fff !important;
 }
 
-.bg-light{
+.bg-light {
     background-color: #fff !important;
+}
+#infographic-container{
+    position: relative;
+    width: 70%;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.infographic-clickable {
+    padding: 10px;
+    border: solid black 1px;
+    position: absolute;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.infographic-clickable:hover {
+    border: solid black 3px;
+    padding: 8px;
+}
+#infographic-pmp {
+    background: rgb(255, 240, 197);
+    top: 7%;
+    left: 20%;
+
+}
+#infographic-teca {
+    background: rgb(234, 234, 234);
+    top: 23%;
+    left: 67%;
+}
+#infographic-ilamb {
+    background: rgb(159, 210, 159);
+    top: 55%;
+    left: 10%;
+}
+#infographic-iomb {
+    background: rgb(213, 223, 241);
+    top: 64%;
+    left: 56%;
 }
