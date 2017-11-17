@@ -43,6 +43,14 @@ To date, many ad hoc analysis packages have been developed to target selected as
     $(document).ready(function(){
         $('[data-toggle="popover"]').popover({
             html: true,
+            placement: function(context, source){
+                if(window.innerWidth >= 635){
+                    return "right";
+                }
+                else{
+                    return "bottom";
+                }
+            },
             content: function(){
                 var targetId = $(this).attr('data-target');
                 return $(targetId).html();
