@@ -12,7 +12,7 @@
     margin: 0 0 0 0;
 }
 
-#bib p{
+#bib p {
 	text-indent: -50px;
 	margin-left: 50px;
 }
@@ -24,54 +24,4 @@
 
 .bg-light{
     background-color: #fff !important;
-}
-#infographic-container{
-    position: relative;
-    font-size: 10pt;
-    font-weight: bold;
-    margin-bottom: auto;
-}
-.infographic-clickable{
-    padding: 10px;
-    border: solid black 1px;
-    position: absolute;
-    border-radius: 10px;
-    cursor: pointer;
-}
-.infographic-clickable:hover{
-    border: solid black 3px;
-    padding: 8px;
-}
-#infographic-pmp{
-    background: rgb(255, 240, 197);
-    top: 7%;
-    left: 20%;
-
-}
-#infographic-teca{
-    background: rgb(234, 234, 234);
-    top: 23%;
-    left: 67%;
-}
-#infographic-ilamb{
-    background: rgb(159, 210, 159);
-    top: 55%;
-    left: 10%;
-}
-#infographic-iomb{
-    background: rgb(213, 223, 241);
-    top: 64%;
-    left: 56%;
-}
-.popover{
-    max-width: 345px;
-}
-.popover-content{
-    display: none;
-}
-.full-width{
-    width: 100%;
-}
-.bold{
-    font-weight: bold;
 }
