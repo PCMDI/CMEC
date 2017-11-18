@@ -3,9 +3,7 @@ layout: default
 title: Resources
 ---
 
-## Resources
-
-### References ###
+## References
 
 <div id="bib">
 
