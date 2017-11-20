@@ -12,7 +12,7 @@ title: CMEC
     <div id="infographic-container" class="col-sm-12 col-lg-7">
     <img src="{{site.baseurl}}/assets/images/infographic.png">
     <div id="infographic-pmp"
-        class="infographic-clickable text-center" 
+        class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
         data-target="#pmp-popover-content"
@@ -23,19 +23,33 @@ title: CMEC
     </div>
 </div>
 
-A primary motivation for CMEC is to analyze model simulations that are contributed to the <a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually all the institutions worldwide involved in significant development of ESMs contribute simulations to CMIP. <a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (CMIP6; <a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>; <a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental shift away from distinct CMIP phases with the advent of an ongoing core of benchmarking experiments known as the CMIP DECK (Diagnosis, Evaluation, Characterization of Klima – Klima being the German word for climate). The DECK includes a short list of experimental configurations that are routinely performed by ESM developers during their model development process. The DECK and “Historical” simulations provide a basis from which ESMs can be compared with available observations.
- 
-To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With the growing scope of CMIP and expectations for efficient “quick look” results, there is a clear need for the community of CMIP analysts to work together. CMEC is establishing a framework for the developers of these capabilities to collaborate and to deliver a unified set of results.
+A primary motivation for CMEC is to analyze model simulations that are contributed to the
+<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually all the
+institutions worldwide involved in significant development of ESMs contribute simulations to CMIP.
+<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (CMIP6;
+<a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>;
+<a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental
+shift away from distinct CMIP phases with the advent of an ongoing core of benchmarking experiments known as the
+CMIP DECK (Diagnosis, Evaluation, Characterization of Klima – Klima being the German word for climate). The DECK
+includes a short list of experimental configurations that are routinely performed by ESM developers during their
+model development process. The DECK and “Historical” simulations provide a basis from which ESMs can be compared
+with available observations.
+
+To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With the growing scope of
+CMIP and expectations for efficient “quick look” results, there is a clear need for the community of CMIP analysts to work together.
+CMEC is establishing a framework for the developers of these capabilities to collaborate and to deliver a unified set of results.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
         <a href="#">The PCMDI Metrics Package (PMP)</a>
         <p>
-        PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and inter-annual time scales. It compares these variables with global satellite remote sensing and reanalysis data sets, and scores model performance based on RMSE or other metrics. PMP is useful for producing quick, high-level diagnostic summaries of physical atmosphere model performance.
+        PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and inter-annual time scales.
+        It compares these variables with global satellite remote sensing and reanalysis data sets, and scores model performance based
+        on RMSE or other metrics. PMP is useful for producing quick, high-level diagnostic summaries of physical atmosphere model performance.
         </p>
-        <img src="/assets/images/pmp_cover_side_sm.png" class="full-width">
+        <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
-        <span class="bold">Quick links</span>: <a href="#">Repository</a> and <a href="#">Installation</a>
+        <span class="bold">Quick links</span>: <a href="#">Repository</a> and <a href="#">Installation</a>
         </p>
     </div>
 </div>
@@ -57,5 +71,4 @@ To date, many ad hoc analysis packages have been developed to target selected as
             }
         })
     });
-    
 </script>
