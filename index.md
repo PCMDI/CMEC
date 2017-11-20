@@ -7,7 +7,12 @@ title: CMEC
 
 <div class="row">
     <p class="col-sm-12 col-lg-5">
-    Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs). Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office of Biological and Environmental Research (BER), Regional and Global Climate Modeling Program (RGCM). As CMEC advances, additional analysis packages will be included from community-based expert teams as well a efforts directly supported by DOE and other US and international agencies.
+    Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis
+    packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs).
+    Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office
+    of Biological and Environmental Research (BER), Regional and Global Climate Modeling Program (RGCM). As
+    CMEC advances, additional analysis packages will be included from community-based expert teams as well
+    a efforts directly supported by DOE and other US and international agencies.
     </p>
     <div id="infographic-container" class="col-sm-12 col-lg-7">
     <img src="{{site.baseurl}}/assets/images/infographic.png">
@@ -51,10 +56,12 @@ to collaborate and to deliver a unified set of results.
         </p>
         <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
-        <span class="bold">Quick links</span>: <a href="#">Repository</a> and <a href="#">Installation</a>
+        <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>
+        and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install">Installation</a>
         </p>
     </div>
 </div>
+
 <script>
     $(document).ready(function(){
         $('[data-toggle="popover"]').popover({
