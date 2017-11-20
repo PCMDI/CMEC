@@ -10,7 +10,7 @@ title: CMEC
     Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs). Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office of Biological and Environmental Research (BER), Regional and Global Climate Modeling Program (RGCM). As CMEC advances, additional analysis packages will be included from community-based expert teams as well a efforts directly supported by DOE and other US and international agencies.
     </p>
     <div id="infographic-container" class="col-sm-12 col-lg-7">
-    <img src="/assets/images/infographic.png">
+    <img src="{{site.baseurl}}/assets/images/infographic.png">
     <div id="infographic-pmp"
         class="infographic-clickable text-center" 
         role="button"
