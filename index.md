@@ -21,28 +21,28 @@ title: CMEC
         role="button"
         data-toggle="popover"
         data-target="#pmp-popover-content"
-        title="PCMDI Metrics Package">Physical<br>Model<br>Summaries<br>(PMP)</div>
+        title="PCMDI Metrics Package">Physical<br>Model<br>Summaries<br>(PMP)
     </div>
     <div id="infographic-teca"
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
         data-target="#teca-popover-content"
-        title="The Toolkit for Extremes Climate Analysis">Weather<br>Extremes<br>(TECA)</div>
+        title="The Toolkit for Extremes Climate Analysis">Weather<br>Extremes<br>(TECA)
     </div>
     <div id="infographic-ilamb"
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
         data-target="#ilamb-popover-content"
-        title="The International Land Model Benchmarking Package">Land<br>Biogeochemistry<br>(ILAMB)</div>
+        title="The International Land Model Benchmarking Package">Land<br>Biogeochemistry<br>(ILAMB)
     </div>
     <div id="infographic-iomb"
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
         data-target="#iomb-popover-content"
-        title="The International Ocean Model Benchmarking Package">Ocean<br>Biogeochemistry<br>(IOMB)</div>
+        title="The International Ocean Model Benchmarking Package">Ocean<br>Biogeochemistry<br>(IOMB)
     </div>
     </div>
 </div>
