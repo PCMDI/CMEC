@@ -22,9 +22,28 @@ title: CMEC
         data-toggle="popover"
         data-target="#pmp-popover-content"
         title="PCMDI Metrics Package">Physical<br>Model<br>Summaries<br>(PMP)</div>
-    <a id="infographic-teca" class="infographic-clickable text-center">Weather<br>Extremes<br>(TECA)</a>
-    <a id="infographic-ilamb" class="infographic-clickable text-center">Land<br>Biogeochemistry<br>(ILAMB)</a>
-    <a id="infographic-iomb" class="infographic-clickable text-center">Ocean<br>Biogeochemistry<br>(IOMB)</a>
+    </div>
+    <div id="infographic-teca"
+        class="infographic-clickable text-center"
+        role="button"
+        data-toggle="popover"
+        data-target="#teca-popover-content"
+        title="The Toolkit for Extremes Climate Analysis">Weather<br>Extremes<br>(TECA)</div>
+    </div>
+    <div id="infographic-ilamb"
+        class="infographic-clickable text-center"
+        role="button"
+        data-toggle="popover"
+        data-target="#ilamb-popover-content"
+        title="The International Land Model Benchmarking Package">Land<br>Biogeochemistry<br>(ILAMB)</div>
+    </div>
+    <div id="infographic-iomb"
+        class="infographic-clickable text-center"
+        role="button"
+        data-toggle="popover"
+        data-target="#iomb-popover-content"
+        title="The International Ocean Model Benchmarking Package">Ocean<br>Biogeochemistry<br>(IOMB)</div>
+    </div>
     </div>
 </div>
 
@@ -42,8 +61,8 @@ with available observations.
 
 To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With
 the growing scope of CMIP and expectations for efficient “quick look” results, there is a clear need for the
-community of CMIP analysts to work together. CMEC is establishing a framework for the developers of these capabilities
-to collaborate and to deliver a unified set of results.
+community of CMIP analysts to work together. CMEC is establishing a framework for the developers of these
+capabilities to collaborate and to deliver a unified set of results.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
@@ -58,6 +77,55 @@ to collaborate and to deliver a unified set of results.
         <p>
         <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics"
         target="_blank">Repository</a> and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
+        target="_blank">Installation</a>
+        </p>
+    </div>
+    <div id="teca-popover-content">
+        <a href="#">The Toolkit for Extremes Climate Analysis (TECA)</a>
+        <p>
+        TECA is a general purpose tool for detecting discrete events in climate model output.
+        </p>
+        <p>
+        <span class="bold">Quick links</span>:
+        <a href="https://github.com/LBL-EESA/TECA" target="_blank">Repository</a>,
+        <a href="https://github.com/LBL-EESA/TECA_superbuild" target="_blank">Installation</a>
+        <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf"
+        target="_blank"> and documentation</a>
+        </p>
+    </div>
+    <div id="ilamb-popover-content">
+        <a href="#">The International Land Model Benchmarking (ILAMB) Package</a>
+        <p>
+        ILAMB provides a variety of in-depth diagnostics of more than 24 terrestrial biogeochemical
+        and hydrological model variables on annual and inter-annual time scales. It compares these
+        variables with over 60 site-based, regional, and global observational data sets, and scores
+        model performance based on a combination bias, RMSE, and seasonal cycle metrics. Relationships
+        between many biogeochemical variables and physical driver variables are calculated from model
+        results and compared with observational estimates. ILAMB is useful for detailed exploration of
+        land biogeochemical and hydrological model responses and provides an interactive interface
+        designed to enable the user to more rapidly understand the underlying drivers of those responses.
+        </p>
+        <img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png" class="full-width">
+        <p>
+        <span class="bold">Quick links</span>: <a href="#"
+        target="_blank">Repository</a> and <a href="#"
+        target="_blank">Installation</a>
+        </p>
+    </div>
+    <div id="iomb-popover-content">
+        <a href="#">The International Ocean Model Benchmarking (IOMB) Package</a>
+        <p>
+        IOMB provides a variety of in-depth diagnostics of marine biogeochmical model variables on
+        annual and inter-annual time scales. It compares a growing number of variables with site-based,
+        transect, regional, and global observational data sets, and scores model performance based on
+        a combination of bias, RMSE, and seasonal cycle metrics. IOMB is useful for detailed exploration
+        of ocean biogeochemical model responses and provides an interactive interface designed to enable
+        the user to more rapidly understand the underlying drivers of those responses.
+        </p>
+        <img src="{{site.baseurl}}/assets/images/iomb_temperature_sm.png" class="full-width">
+        <p>
+        <span class="bold">Quick links</span>: <a href="#"
+        target="_blank">Repository</a> and <a href="#"
         target="_blank">Installation</a>
         </p>
     </div>
