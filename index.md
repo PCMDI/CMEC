@@ -15,7 +15,7 @@ title: CMEC
     a efforts directly supported by DOE and other US and international agencies.
     </p>
     <div id="infographic-container" class="col-sm-12 col-lg-7">
-    <img src="{{site.baseurl}}/assets/images/infographic.png">
+    <img src="{{site.baseurl}}/assets/images/171120_CMECInfoGraphic_500x503px_72dpi.png">
     <div id="infographic-pmp"
         class="infographic-clickable text-center"
         role="button"
