@@ -3,24 +3,9 @@ layout: default
 title: Capabilites
 ---
 
-## Capabilities
+## Capabilities Overview
 
-The U.S. Department of Energy is coordinating the development and
-distribution of community software tools designed to evaluate the fidelity
-of Earth system models and their component models.  Collectively called
-the [Coodinated Model Evaluation Capabilities (CMEC)](./ "CMEC"), these
-tools offer a wide range of benchmarking and diagnostic capabilities
-described below. Tools currently participating in CMEC:
-
-* The PCMDI Metrics Package (PMP)
-
-* The International Land Model Benchmarking (ILAMB) Package
-
-* The International Ocean Model Benchmarking (IOMB) Package
-
-* The Toolkit for Extremes Climate Analysis (TECA)
-
-More info below...
+The capabilites currently contributing to CMEC are briefly highlighted below:
 
 ******
 
