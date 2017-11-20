@@ -24,8 +24,8 @@ title: CMEC
 </div>
 
 A primary motivation for CMEC is to analyze model simulations that are contributed to the
-<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually all the
-institutions worldwide involved in significant development of ESMs contribute simulations to CMIP.
+<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually all
+the institutions worldwide involved in significant development of ESMs contribute simulations to CMIP.
 <a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (CMIP6;
 <a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>;
 <a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental
@@ -35,17 +35,19 @@ includes a short list of experimental configurations that are routinely performe
 model development process. The DECK and “Historical” simulations provide a basis from which ESMs can be compared
 with available observations.
 
-To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With the growing scope of
-CMIP and expectations for efficient “quick look” results, there is a clear need for the community of CMIP analysts to work together.
-CMEC is establishing a framework for the developers of these capabilities to collaborate and to deliver a unified set of results.
+To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With
+the growing scope of CMIP and expectations for efficient “quick look” results, there is a clear need for the
+community of CMIP analysts to work together. CMEC is establishing a framework for the developers of these capabilities
+to collaborate and to deliver a unified set of results.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
         <a href="#">The PCMDI Metrics Package (PMP)</a>
         <p>
-        PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and inter-annual time scales.
-        It compares these variables with global satellite remote sensing and reanalysis data sets, and scores model performance based
-        on RMSE or other metrics. PMP is useful for producing quick, high-level diagnostic summaries of physical atmosphere model performance.
+        PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and
+        inter-annual time scales. It compares these variables with global satellite remote sensing and
+        reanalysis data sets, and scores model performance based on RMSE or other metrics. PMP is useful
+        for producing quick, high-level diagnostic summaries of physical atmosphere model performance.
         </p>
         <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
