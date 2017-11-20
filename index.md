@@ -56,8 +56,9 @@ to collaborate and to deliver a unified set of results.
         </p>
         <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
-        <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>
-        and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install">Installation</a>
+        <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics"
+        target="_blank">Repository</a> and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
+        target="_blank">Installation</a>
         </p>
     </div>
 </div>
