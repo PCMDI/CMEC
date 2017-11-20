@@ -27,7 +27,7 @@ More info below...
 <!-- PMP -->
 <div class="span4 box">
 <h3><a class="reference internal" href="pmp.html">The PCMDI Metrics Package (PMP)</a></h3>
-<p>PMP provides a diverse suite of relatively robust high level summary statistics across space and time scales, gauging the differences between models and observations.  PMP summaries encapsulate the simulated atmosphere, ocean, ice and land - with current examples highighting atmospheric characterisitics.  PMP is useful for producing quick, high-level summaries of new simulations and putting them into the context of all previous generations of AMIP and CMIP.</p>
+<p>PMP provides a diverse suite of relatively robust high level summary statistics across space and time scales, gauging the differences between models and observations.  PMP summaries encapsulate the simulated atmosphere, ocean, ice and land - with current examples highlighting atmospheric characteristics.  PMP is useful for producing quick, high-level summaries of new simulations and putting them into the context of all previous generations of AMIP and CMIP.</p>
 <center><a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a></center>
 <br>
 <strong>Quick links</strong>:&nbsp;
