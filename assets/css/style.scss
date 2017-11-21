@@ -29,14 +29,15 @@
     position: relative;
     font-size: 10pt;
     font-weight: bold;
-    margin-bottom: auto;
+}
+#infographic-container>img{
+    width: 100%;
 }
 .infographic-clickable{
     padding: 10px;
     border: solid black 1px;
     position: absolute;
     border-radius: 10px;
-    cursor: pointer;
 }
 .infographic-clickable:hover{
     border: solid black 3px;
@@ -65,6 +66,10 @@
 }
 .popover{
     max-width: 345px;
+    width: 345px;
+}
+.popover>h3{
+    margin-top: 0;
 }
 .popover-content{
     display: none;

@@ -6,7 +6,7 @@ title: CMEC
 ## Coordinated Model Evaluation Capabilities
 
 <div class="row">
-    <p class="col-sm-12 col-lg-5">
+    <p class="col-sm-12 col-md-12 col-lg-5">
     Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis
     packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs).
     Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office
@@ -14,12 +14,13 @@ title: CMEC
     CMEC advances, additional analysis packages will be included from community-based expert teams as well
     a efforts directly supported by DOE and other US and international agencies.
     </p>
-    <div id="infographic-container" class="col-sm-12 col-lg-7">
+    <div id="infographic-container" class="col-sm-12 col-md-12 col-lg-7">
     <img src="{{site.baseurl}}/assets/images/171120_CMECInfoGraphic_500x503px_72dpi.png">
     <div id="infographic-pmp"
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
+        data-trigger="hover"
         data-target="#pmp-popover-content"
         title="PCMDI Metrics Package">Physical<br>Model<br>Summaries<br>(PMP)
     </div>
@@ -27,6 +28,7 @@ title: CMEC
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
+        data-trigger="hover"
         data-target="#teca-popover-content"
         title="The Toolkit for Extremes Climate Analysis">Weather<br>Extremes<br>(TECA)
     </div>
@@ -34,6 +36,7 @@ title: CMEC
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
+        data-trigger="hover"
         data-target="#ilamb-popover-content"
         title="The International Land Model Benchmarking Package">Land<br>Biogeochemistry<br>(ILAMB)
     </div>
@@ -41,6 +44,7 @@ title: CMEC
         class="infographic-clickable text-center"
         role="button"
         data-toggle="popover"
+        data-trigger="hover"
         data-target="#iomb-popover-content"
         title="The International Ocean Model Benchmarking Package">Ocean<br>Biogeochemistry<br>(IOMB)
     </div>
@@ -88,9 +92,9 @@ capabilities to collaborate and to deliver a unified set of results.
         <p>
         <span class="bold">Quick links</span>:
         <a href="https://github.com/LBL-EESA/TECA" target="_blank">Repository</a>,
-        <a href="https://github.com/LBL-EESA/TECA_superbuild" target="_blank">Installation</a>
+        <a href="https://github.com/LBL-EESA/TECA_superbuild" target="_blank">Installation</a>, and
         <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf"
-        target="_blank"> and documentation</a>
+        target="_blank">documentation</a>
         </p>
     </div>
     <div id="ilamb-popover-content">
@@ -133,20 +137,24 @@ capabilities to collaborate and to deliver a unified set of results.
 
 <script>
     $(document).ready(function(){
-        $('[data-toggle="popover"]').popover({
-            html: true,
-            placement: function(context, source){
-                if(window.innerWidth >= 635){
-                    return "right";
+        $('[data-toggle="popover"]').each(function(){
+            var self = $(this);
+            self.popover({
+                html: true,
+                container: self,
+                placement: function(context, source){
+                    if(window.innerWidth >= 635){
+                        return "right";
+                    }
+                    else{
+                        return "bottom";
+                    }
+                },
+                content: function(){
+                    var targetId = $(this).attr('data-target');
+                    return $(targetId).html();
                 }
-                else{
-                    return "bottom";
-                }
-            },
-            content: function(){
-                var targetId = $(this).attr('data-target');
-                return $(targetId).html();
-            }
+            })
         })
     });
 </script>
