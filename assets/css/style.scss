@@ -75,3 +75,9 @@
 .bold{
     font-weight: bold;
 }
+nav>div.collapse.navbar-collapse{
+    flex-grow: 0;
+}
+div.container>nav{
+    justify-content: center;
+}
