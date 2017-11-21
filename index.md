@@ -52,8 +52,7 @@ title: CMEC
 </div>
 
 A primary motivation for CMEC is to analyze model simulations that are contributed to the
-<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually all
-the institutions worldwide involved in significant development of ESMs contribute simulations to CMIP.
+<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually every institution worldwide involved in significant development of ESMs contributes simulations to CMIP.
 <a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (CMIP6;
 <a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>;
 <a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental
