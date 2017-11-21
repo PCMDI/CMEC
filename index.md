@@ -3,7 +3,7 @@ layout: default
 title: CMEC
 ---
 
-## CMEC
+## Coordinated Model Evaluation Capabilities
 
 <div class="row">
     <p class="col-sm-12 col-lg-5">
