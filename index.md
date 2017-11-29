@@ -86,8 +86,14 @@ capabilities to collaborate and to deliver a unified set of results.
     <div id="teca-popover-content">
         <a href="#">The Toolkit for Extremes Climate Analysis (TECA)</a>
         <p>
-        TECA is a general purpose tool for detecting discrete events in climate model output.
+	TECA is a high-performance, general purpose tool for detecting discrete
+	weather events, such as tropical cyclones, in climate model output.  Its core
+	is a map-reduce framework, implemented in C++, that utilizes MPI and OpenMP
+	parallelism.  It features Python bindings for the core architecture, which
+	allows rapid prototyping new detectors while taking advantage of the
+	high-performance parallelism of the C++ core.
         </p>
+        <img src="{{site.baseurl}}/assets/images/teca_cam5_globe_400x400.png" class="full-width">
         <p>
         <span class="bold">Quick links</span>:
         <a href="https://github.com/LBL-EESA/TECA" target="_blank">Repository</a>,
