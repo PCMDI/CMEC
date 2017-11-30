@@ -59,6 +59,6 @@ target="_blank">CMIP5 interannual variability</a>
 
 <br>
 <center>
-<a border="0"<img src="{{site.baseurl}}/assets/images/PMP_EOS.png" alt="PMP
-EOS article"></a>
+<img style="border:0px" src="{{site.baseurl}}/assets/images/PMP_EOS.png"
+alt="PMP EOS article">
 </center>
