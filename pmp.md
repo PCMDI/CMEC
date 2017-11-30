@@ -24,6 +24,6 @@ Quick links: Repository, Installation, CMIP5 AMIP and Historical Results, CMIP5 
 
 </p>
 <center>
-<a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/PMP_EOS.tiff"></a>
+<a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/PMP_EOS.png"></a>
 </center>
 <br>
