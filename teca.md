@@ -47,9 +47,9 @@ view, it offers the option to design custom workflows. The example at
 the end shows a simple TC-detector implemented with the Python API.
 
 <strong>Quick links</strong>:&nbsp;
-<a href="">Repository</a>,
-<a href="">Installation</a>,
-<a href="">Tutorials</a>,
-<a href="">CMIP5 Results</a>,
-<a href="">CLM Results</a>
+<a href="https://github.com/LBL-EESA/TECA">Repository</a>,
+<a href="https://github.com/LBL-EESA/TECA#download-build-and-install">Installation</a>,
+<a href="https://cascade-climate.atlassian.net/wiki/spaces/TECA/blog/2017/09/29/119668755/Analyzing+Cyclone+Tracks+with+TECA">Tutorials</a>,
+<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>,
+<a href="{{site.baseurl}}/teca_wehner_results.html">CAM Results</a>
 

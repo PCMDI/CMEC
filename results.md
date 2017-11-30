@@ -22,3 +22,6 @@ The sample results available include the following:
 * [ILAMB Community Land Model (CLM) Results](http://ilamb.ornl.gov/CLM "ILAMB CLM Results")
 * [IOMB Parallel Ocean Program (POP) Results](http://ilamb.ornl.gov/IOMB/ "IOMB POP Results")
 
+### Extreme weather emphasis:
+
+* [Sample results from Wehner et al. (2015, J. Clim.)](teca_wehner_results.html "Sample results from Wehner et al. (2015, J. Clim.)")
