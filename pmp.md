@@ -58,5 +58,5 @@ CMIP5 AMIP and Historical Results</a>, <a href="https://github.com/PCMDI/pcmdi_m
 target="_blank">CMIP5 interannual variability</a>
 
 <br>
-<img src="{{site.baseurl}}/assets/images/PMP_EOS.png" alt"PMP EOS article"
-border="0" align="center">
+<center><img src="{{site.baseurl}}/assets/images/PMP_EOS.png" alt"PMP EOS article"
+border="0"></center>
