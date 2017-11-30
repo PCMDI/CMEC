@@ -45,14 +45,15 @@ along with the <a href="https://esgf.llnl.gov/" target="_blank">Earth System Gri
 Federation</a> (ESGF), <a href="https://esgf-node.llnl.gov/search/cmip5/"
 target="_blank">CMIP5</a>, <a href="https://esgf-node.llnl.gov/search/cmip3/"
 target="_blank">CMIP3</a> and earlier data holdings based
-on-site at LLNL
+on-site at LLNL.
 
 As PMP development continues, we welcome collaborations from modeling groups
 and expert teams to further expand and improve the comprehensiveness of the
 calculated metrics.
 
-Quick links: <a href="https://github.com/PCMDI/pcmdi_metrics" target="_blank">
-Repository</a>, <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install" target="_blank">
+<b>Quick links:</b> <a href="https://github.com/PCMDI/pcmdi_metrics"
+target="_blank">Repository</a>,
+<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install" target="_blank">
 Installation</a>, <a href="{{site.baseurl}}/results.html" target="_blank">CMIP5
 AMIP and Historical Results</a>, <a href="{{site.baseurl}}/results.html"
 target="_blank">CMIP5 interannual variability</a>
