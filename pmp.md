@@ -22,7 +22,7 @@ As PMP development continues, we welcome collaborations from modeling groups and
 
 Quick links: Repository, Installation, CMIP5 AMIP and Historical Results, CMIP5 interannual variability
 
-</p>
+<br>
 <center>
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/PMP_EOS.png"></a>
 </center>
