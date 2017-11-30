@@ -20,5 +20,11 @@ The PMP summaries include metrics from PCMDI’s research, which rely on several
 
 As PMP development continues, we welcome collaborations from modeling groups and expert teams to further expand and improve the comprehensiveness of the calculated metrics.
 
+</p>
+<center>
+<a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
+</center>
+<br>
+
 Quick links: Repository, Installation, CMIP5 AMIP and Historical Results, CMIP5 interannual variability
 
