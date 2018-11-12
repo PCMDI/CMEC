@@ -5,7 +5,6 @@ title: PMP
 
 ## The PCMDI Metrics Package (PMP)
 
-### Overview
 
 The PCMDI Metrics Package (PMP) provides a diverse suite of relatively robust
 high-level summary statistics that gauge differences between models and
