@@ -15,11 +15,11 @@ described below, the goals of ILAMB are to:
 
 <li> develop internationally accepted benchmarks for land model performance, </li>
 
-2. promote the use of these benchmarks by the international community for model intercomparison,
+<li> promote the use of these benchmarks by the international community for model intercomparison, </li>
 
-3. strengthen linkages between experimental, remote sensing, and climate modeling communities in the design of new model tests and new measurement programs, and
+<li> strengthen linkages between experimental, remote sensing, and climate modeling communities in the design of new model tests and new measurement programs, and </li>
 
-4. support the design and development of a new, open source, benchmarking software system for use by the international community.
+<li> support the design and development of a new, open source, benchmarking software system for use by the international community. </li>
 
 Improving the representation of the carbon cycle and land surface
 processes in climate models requires extensive comparison of model results
