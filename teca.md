@@ -53,3 +53,6 @@ the end shows a simple TC-detector implemented with the Python API.
 <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>,
 <a href="{{site.baseurl}}/teca_wehner_results.html">CAM Results</a>
 
+<br>
+<b>Contact:</b> William D. Collins (wdcollins@lbl.gov)
+
