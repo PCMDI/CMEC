@@ -58,6 +58,8 @@ AMIP and Historical Results</a>, <a href="{{site.baseurl}}/results.html"
 target="_blank">CMIP5 interannual variability</a>
 
 <br>
+Contact:  Peter J. Gleckler \ gleckler1@llnl.gov
+<br>
 <center>
 <img style="border:0px" src="{{site.baseurl}}/assets/images/PMP_EOS.png"
 alt="PMP EOS article">
