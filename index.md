@@ -69,7 +69,7 @@ capabilities to collaborate and to deliver a unified set of results.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
-        <a href="#">The PCMDI Metrics Package (PMP)</a>
+        <a href="https://pcmdi.github.io/CMEC/pmp.html">The PCMDI Metrics Package (PMP)</a>
         <p>
         PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and
         inter-annual time scales. It compares these variables with global satellite remote sensing and
