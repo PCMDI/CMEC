@@ -56,7 +56,6 @@ target="_blank">Repository</a>,
 Installation</a>, <a href="{{site.baseurl}}/results.html" target="_blank">CMIP5
 AMIP and Historical Results</a>, <a href="{{site.baseurl}}/results.html"
 target="_blank">CMIP5 interannual variability</a>
-
 <br>
 <b> Contact:</b> Peter J. Gleckler (gleckler1@llnl.gov)
 <br>
