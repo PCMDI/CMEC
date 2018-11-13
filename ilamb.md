@@ -13,7 +13,7 @@ new measurement campaigns to reduce uncertainties associated with key
 land surface processes. Building upon past model evaluation studies,
 described below, the goals of ILAMB are to:
 
-1. develop internationally accepted benchmarks for land model performance,
+<li> develop internationally accepted benchmarks for land model performance, </li>
 
 2. promote the use of these benchmarks by the international community for model intercomparison,
 
