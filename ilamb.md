@@ -92,4 +92,5 @@ understand the underlying drivers of those responses.
 <a href="http://ilamb.ornl.gov/ELM">ELM Results</a>,
 and
 <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
-
+<br>
+<b>Contact:</b> Forrest M. Hoffman (forrest@climatemodeling.org)
