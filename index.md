@@ -84,7 +84,7 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
     </div>
     <div id="teca-popover-content">
-        <a href="#">The Toolkit for Extremes Climate Analysis (TECA)</a>
+        <a href="https://pcmdi.github.io/CMEC/teca.html">The Toolkit for Extremes Climate Analysis (TECA)</a>
         <p>
 	TECA is a high-performance, general purpose tool for detecting discrete
 	weather events, such as tropical cyclones, in climate model output.  Its core
