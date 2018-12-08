@@ -1,0 +1,88 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.page-header{
+    padding: 1rem 1rem 1rem 1rem; 
+}
+
+.project-tagline{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+#bib p{
+	text-indent: -50px;
+	margin-left: 50px;
+}
+
+.container{
+    max-width: 54rem;
+    background-color: #fff !important;
+}
+
+.bg-light{
+    background-color: #fff !important;
+}
+#infographic-container{
+    position: relative;
+    font-size: 10pt;
+    font-weight: bold;
+}
+#infographic-container>img{
+    width: 100%;
+}
+.infographic-clickable{
+    padding: 10px;
+    border: solid black 1px;
+    position: absolute;
+    border-radius: 10px;
+}
+.infographic-clickable:hover{
+    border: solid black 3px;
+    padding: 8px;
+}
+#infographic-pmp{
+    background: rgb(255, 240, 197);
+    top: 7%;
+    left: 20%;
+
+}
+#infographic-teca{
+    background: rgb(234, 234, 234);
+    top: 23%;
+    left: 67%;
+}
+#infographic-ilamb{
+    background: rgb(159, 210, 159);
+    top: 55%;
+    left: 10%;
+}
+#infographic-iomb{
+    background: rgb(213, 223, 241);
+    top: 64%;
+    left: 56%;
+}
+.popover{
+    max-width: 345px;
+    width: 345px;
+}
+.popover>h3{
+    margin-top: 0;
+}
+.popover-content{
+    display: none;
+}
+.full-width{
+    width: 100%;
+}
+.bold{
+    font-weight: bold;
+}
+nav>div.collapse.navbar-collapse{
+    flex-grow: 0;
+}
+div.container>nav{
+    justify-content: center;
+}

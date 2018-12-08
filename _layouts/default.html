@@ -1,64 +1,38 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Coordinated Model Evaluation Capabilities" />
-    <meta name="author" content="{{ site.author }}">
-    <link rel="shortcut icon" href="{{site.baseurl}}/Data/media/images/place_holder.png">
+    <meta charset="UTF-8">
 
+{% seo %}
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/cmec-favcon.png">
     <title>{{ page.title }}</title>
 
-    <!-- Bootstrap core CSS -->
-    <link id="bootstrap-css" href="{{site.baseurl}}/Data/media/css/bootstrap.min.css" rel="stylesheet"> 
-    <!-- Custom styles for this template -->
-    <style>
-      body {
-        padding-top: 50px;
-        padding-bottom: 20px;
-      }
-    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-
   <body>
+    {% include nav.html %}
 
-    <div class="navbar navbar-default navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="{{site.baseurl}}/"><img src="Data/media/images/place_holder_sm.png"/> &nbsp; Coordinated Model Evaluation Capabilities</a>
-          <div class="nav-collapse">
-            <ul class="nav">
-              {% assign pages_list = site.pages | sort:"weight" %}
-              {% assign group = 'navigation' %}
-              {% include pages_list %}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div style="margin-bottom: 60px;"></div>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <section class="page-header">
+      {% if page.url == "/" %}
+      {% comment %}{% include page-header.html %} Turned off carousel for the homepage, as new graphic now in place {% endcomment %}
+      {% endif %}
+    </section>
 
-<div class="container">
+    <section class="main-content">
+      {{ content }}
 
-        {{content}}
-</div>
-  <br>
-  <hr>
-  {% include footer.html %}
-      <hr>
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="{{site.baseurl}}/Data/media/js/bootstrap.min.js"></script>
-    <script src="{{site.baseurl}}/Data/media/js/links.js"></script>
+      <footer class="site-footer">
+        {% include footer.html %}
+      </footer>
+    </section>
   </body>
 </html>
