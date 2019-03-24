@@ -88,7 +88,7 @@ understand the underlying drivers of those responses.
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>,
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>,
-<a href="https://www.ilamb.org/CMIP5/esmhistorical">CMIP5 Results</a>,
+<a href="https://www.ilamb.org/CMIP5/esmHistorical">CMIP5 Results</a>,
 and <a href="https://www.ilamb.org/CLM/">CLM Results</a>
 <br>
 <b>Contact:</b> Forrest M. Hoffman (forrest@climatemodeling.org)
