@@ -19,7 +19,7 @@ The sample results available include the following:
 
 * [ILAMB CMIP5 Results](https://www.ilamb.org/CMIP5/esmhistorical "ILAMB CMIP5 Results")
 * [ILAMB Community Land Model (CLM) Results](https://www.ilamb.org/CLM "ILAMB CLM Results")
-* [IOMB Parallel Ocean Program (POP) Results](https://wwww.ilamb.org/IOMB/ "IOMB POP Results")
+* [IOMB CMIP5 Results](https://wwww.ilamb.org/IOMB/ "IOMB POP Results")
 
 ### Extreme weather emphasis:
 
