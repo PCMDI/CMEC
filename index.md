@@ -116,8 +116,8 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
         <img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png" class="full-width">
         <p>
-        <span class="bold">Quick links</span>: <a href="#"
-        target="_blank">Repository</a> and <a href="#"
+        <span class="bold">Quick links</span>: <a href="https://bitbucket.org/ncollier/ilamb"
+        target="_blank">Repository</a> and <a href="https://www.ilamb.org/doc/install.html"
         target="_blank">Installation</a>
         </p>
     </div>
@@ -133,8 +133,8 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
         <img src="{{site.baseurl}}/assets/images/iomb_temperature_sm.png" class="full-width">
         <p>
-        <span class="bold">Quick links</span>: <a href="#"
-        target="_blank">Repository</a> and <a href="#"
+        <span class="bold">Quick links</span>: <a href="https://bitbucket.org/ncollier/ilamb"
+        target="_blank">Repository</a> and <a href="https://www.ilamb.org/doc/install.html"
         target="_blank">Installation</a>
         </p>
     </div>
