@@ -86,9 +86,9 @@ understand the underlying drivers of those responses.
 
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
-<a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
-<a href="http://ilamb.ornl.gov/ELM">ELM Results</a>, and <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
+<a href="https://www.ilamb.org/doc/install.html">Installation</a>,
+<a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>,
+<a href="https://www.ilamb.org/CMIP5/esmhistorical">CMIP5 Results</a>,
+and <a href="https://www.ilamb.org/CLM/">CLM Results</a>
 <br>
 <b>Contact:</b> Forrest M. Hoffman (forrest@climatemodeling.org)
