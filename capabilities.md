@@ -59,12 +59,8 @@ rapidly understand the underlying drivers of those responses.
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>, and
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>
-<!--
-<a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
-<a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
--->
+<a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
+<a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
 </div>
 
 ******
@@ -94,11 +90,8 @@ refer to ILAMB instead of IOMB.</p>
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>, and
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>
-<!--
-<a href="http://ilamb.ornl.gov/CMIP5">Sample Results</a>
--->
+<a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
+<a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
 </div>
 
 ******
