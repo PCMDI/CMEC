@@ -69,7 +69,7 @@ capabilities to collaborate and to deliver a unified set of results.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
-        <a href="https://cmec.llnl.gov/pmp.html">The PCMDI Metrics Package (PMP)</a>
+        <a href="/pmp.html">The PCMDI Metrics Package (PMP)</a>
         <p>
         PMP provides diagnostic summaries of physical atmospheric model variables on seasonal, annual, and
         inter-annual time scales. It compares these variables with global satellite remote sensing and
@@ -84,7 +84,7 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
     </div>
     <div id="teca-popover-content">
-        <a href="https://cmec.llnl.gov/teca.html">The Toolkit for Extremes Climate Analysis (TECA)</a>
+        <a href="/teca.html">The Toolkit for Extremes Climate Analysis (TECA)</a>
         <p>
 	TECA is a high-performance, general purpose tool for detecting discrete
 	weather events, such as tropical cyclones, in climate model output.  Its core
@@ -103,7 +103,7 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
     </div>
     <div id="ilamb-popover-content">
-        <a href="https://cmec.llnl.gov/ilamb.html">The International Land Model Benchmarking (ILAMB) Package</a>
+        <a href="/ilamb.html">The International Land Model Benchmarking (ILAMB) Package</a>
         <p>
         ILAMB provides a variety of in-depth diagnostics of more than 24 terrestrial biogeochemical
         and hydrological model variables on annual and inter-annual time scales. It compares these
@@ -122,7 +122,7 @@ capabilities to collaborate and to deliver a unified set of results.
         </p>
     </div>
     <div id="iomb-popover-content">
-        <a href="https://cmec.llnl.gov/iomb.html">The International Ocean Model Benchmarking (IOMB) Package</a>
+        <a href="/iomb.html">The International Ocean Model Benchmarking (IOMB) Package</a>
         <p>
         IOMB provides a variety of in-depth diagnostics of marine biogeochmical model variables on
         annual and inter-annual time scales. It compares a growing number of variables with site-based,
