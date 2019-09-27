@@ -15,14 +15,17 @@ global observational data sets, and scores model performance based on a
 combination of bias, RMSE, and seasonal cycle metrics. IOMB is useful
 for detailed exploration of ocean biogeochemical model responses and
 provides an interactive interface designed to enable the user to more
-rapidly understand the underlying drivers of those responses.
+rapidly understand the underlying drivers of those responses. IOMB was
+first applied to evaluate uncertainties associated with marine aerosol
+precursors ([Ogunro et al., 2018](https://doi.org/10.3390/atmos9050184)).
+
 IOMB uses the same code base as the [International Land Model Benchmarking
 (ILAMB) Package](ilamb.html "ILAMB"), so some of the links below refer
 to ILAMB instead of IOMB.
 
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
-<a href="http://ilamb.ornl.gov/IOMB/">IOMB Parallel Ocean Program (POP) Results</a>
+<a href="https://www.ilamb.org/doc/install.html">Installation</a>,
+<a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>,
+<a href="https://www.ilamb.org/IOMB/">IOMB CMIP5 Results</a>
 
