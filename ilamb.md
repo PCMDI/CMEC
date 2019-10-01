@@ -41,9 +41,9 @@ Multiple past intercomparison efforts provide a foundation a new
 international benchmarking activity. The original C4MIP effort provided
 the community with an elegant conceptual framework for diagnosing the
 causes of model-to-model differences in feedback strength ([Friedlingstein
-et al., 2006](resources.html#Friedlingstein_JClim_20060715); [Gregory et al., 2009](resources.html#Friedlingstein_JClim_20060715)). The Carbon-Land Model Intercomparison
+et al., 2006](https://doi.org/10.1175/JCLI3800.1); [Gregory et al., 2009](https://doi.org/10.1175/2009JCLI2949.1)). The Carbon-Land Model Intercomparison
 Project (C-LAMP) also was a first step in this direction ([Hoffman et al.,
-2008](resources.html#Hoffman_iEMSs-C-LAMP_20080707); [Randerson et al., 2009](resources.html#Randerson_GCB_20091001). Nine different classes of observations
+2008](https://www.climatemodeling.org/~forrest/pubs/papers/Hoffman_iEMSs-C-LAMP_20080707.pdf); [Randerson et al., 2009](https://doi.org/10.1111/j.1365-2486.2009.01912.x). Nine different classes of observations
 were used to evaluate two biogeochemistry models (CASA&prime; and CN)
 within the Community Climate System Model. For each class of observations,
 the models received a score based on the quality of the fit with the
@@ -66,7 +66,7 @@ Germany, Japan, Netherlands, Sweden, United Kingdom, and the United
 States and represented 10 different major modeling centers. Plenary
 presentations focused on model benchmarking, emergent constraints,
 evaluation metrics, uncertainty quantification, and field experiment
-and measurement networks. The 2016 ILAMB Workshop Report ([Hoffman et al., 2017](resources.html#Hoffman_ILAMB_20170401)) is available
+and measurement networks. The 2016 ILAMB Workshop Report ([Hoffman et al., 2017](https://doi.org/10.2172/1330803)) is available
 [here](https://www.ilamb.org/meetings/washington2016/2016_ILAMB_Report_V10_web.pdf
 "2016 ILAMB Workshop Report").
 
@@ -82,13 +82,15 @@ physical driver variables are calculated from model results and compared
 with observational estimates. ILAMB is useful for detailed exploration
 of land biogeochemical and hydrological model responses and provides
 an interactive interface designed to enable the user to more rapidly
-understand the underlying drivers of those responses.
+understand the underlying drivers of those responses. The ILAMB version 2 system
+design philosophy and implementation are described by
+[Collier et al. (2018)](https://doi.org/10.1029/2018MS001354).
 
 <strong>Quick links</strong>:&nbsp;
 <a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
-<a href="http://ilamb.ornl.gov/doc/install.html">Installation</a>,
-<a href="http://ilamb.ornl.gov/doc/tutorial.html">Tutorials</a>,
-<a href="http://ilamb.ornl.gov/CMIP5">CMIP5 Results</a>,
-<a href="http://ilamb.ornl.gov/ELM">ELM Results</a>, and <a href="http://ilamb.ornl.gov/CLM">CLM Results</a>
+<a href="https://www.ilamb.org/doc/install.html">Installation</a>,
+<a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>,
+<a href="https://www.ilamb.org/CMIP5/esmHistorical">CMIP5 Results</a>,
+and <a href="https://www.ilamb.org/CLM/">CLM Results</a>
 <br>
 <b>Contact:</b> Forrest M. Hoffman (forrest@climatemodeling.org)
