@@ -11,8 +11,8 @@ The sample results available include the following:
 
 ### Physical climate emphasis:
 
-* [CMIP5 AMIP and Historical climatologies](physical_results.html "CMIP5 AMIP and Historical climatologies")
-* [CMIP5 inter-annual variability](physical_results_extropvar.html "CMIP5 Historical extra-tropical variability")
+* [CMIP mean state and variability](https://pcmdi.llnl.gov/research/metrics "CMIP mean state and variability")
+
 
 
 ### Biogeochemical climate emphasis:
