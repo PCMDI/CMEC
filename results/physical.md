@@ -3,7 +3,6 @@ layout: default
 title: Physical mean climate and variability
 ---
 
----
 # <a name="top"></a>_PCMDI Simulation Summaries (v1.3.1)
 
 <br/>
