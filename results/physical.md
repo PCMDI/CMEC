@@ -1,5 +1,6 @@
+---
 layout: default
-title: Physical climate metrics
+title: Physical mean climate and variability
 ---
 
 ---
