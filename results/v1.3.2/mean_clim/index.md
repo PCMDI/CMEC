@@ -70,5 +70,5 @@ The mean state results from the PCMDI Metrics Package (PMP) are used to produce 
 
 [Metrics]:{{site.baseurl}}/research/metrics/index.html
 
-[obs_info]: {{site.baseurl}}/research/metrics/mean_clim/pcmdiobs2_clims_byVar_catalogue_v20200421.json
+[obs_info]: pcmdiobs2_clims_byVar_catalogue_v20200421.json
 
