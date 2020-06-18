@@ -61,7 +61,7 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 Questions or comments about the PCMDI Simulation Summaries should be sent to the [PMP team](mailto:pcmdi-metrics@llnl.gov).
 
 [pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/
-[pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/index.html#updates
+[pcmdi_web_updates]: https://pcmdi.llnl.gov/research/metrics/index.html#updates
 
 
 [description_mean_clim]: latest/mean_clim/
