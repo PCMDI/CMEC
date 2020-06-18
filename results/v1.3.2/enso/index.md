@@ -1,8 +1,6 @@
 ---
 layout: default
-title: PCMDI - Metrics
 ---
-###### Research > [Metrics][Metrics] > El Niño-Southern Oscillation (ENSO)
 ---
 
 # El Niño-Southern Oscillation (ENSO)

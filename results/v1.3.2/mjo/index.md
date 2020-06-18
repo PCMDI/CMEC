@@ -1,8 +1,6 @@
 ---
 layout: default
-title: PCMDI - Metrics
 ---
-###### Research > [Metrics][Metrics] > Madden-Julian Oscillation (MJO)
 ---
 
 # Madden-Julian Oscillation (MJO)

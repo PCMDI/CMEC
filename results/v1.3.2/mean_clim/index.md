@@ -1,8 +1,6 @@
 ---
 layout: default
-title: PCMDI - Metrics
 ---
-###### Research > [Metrics][Metrics] > Mean Climate
 ---
 
 # Mean Climate

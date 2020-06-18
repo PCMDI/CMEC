@@ -64,7 +64,7 @@ Questions or comments about the PCMDI Simulation Summaries should be sent to the
 [description_mean_clim]: latest/mean_clim/
 [description_variability]: latest/variability_modes/
 [description_monsoon]: latest/monsoon/
-[description_mjo]: latest/metrics/mjo/
+[description_mjo]: latest/mjo/
 [description_enso]: latest/enso/
 
 [lee2019]: https://link.springer.com/article/10.1007/s00382-018-4355-4

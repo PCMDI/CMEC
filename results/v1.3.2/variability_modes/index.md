@@ -1,8 +1,6 @@
 ---
 layout: default
-title: PCMDI - Metrics
 ---
-###### Research > [Metrics][Metrics] > Extratropical Modes of Variability
 ---
 
 # Extratropical Modes of Variability

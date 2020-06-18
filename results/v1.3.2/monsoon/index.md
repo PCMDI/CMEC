@@ -1,8 +1,6 @@
 ---
 layout: default
-title: PCMDI - Metrics
 ---
-###### Research > [Metrics][Metrics] > Monsoon Onset, Decay, and Duration
 ---
 
 # Monsoon Onset, Decay, and Duration
