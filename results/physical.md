@@ -52,6 +52,7 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 
 ---
 ## <a name="updates"></a>Update History
+- This page provides latest contents of [PCMDI Simulation Summary][pcmdi_web].
 - Visit [PCMDI][pcmdi_web] for update history and previous versions.
 <p align="right"><a href="#top">Back to List</a></p>
 
