@@ -59,23 +59,13 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 
 Questions or comments about the PCMDI Simulation Summaries should be sent to the [PMP team](mailto:pcmdi-metrics@llnl.gov).
 
-[latest]: {{site.baseurl}}/research/metrics/index.html
-
 [pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/
 
-[v1.3.1]: {{site.baseurl}}/research/metrics/v1.3.1
-[v1.3.0]: {{site.baseurl}}/research/metrics/v1.3.0
-[v1.2.0]: {{site.baseurl}}/research/metrics/v1.2.0
-[v1.1.0]: {{site.baseurl}}/research/metrics/v1.1.0
-[v1.0.0]: {{site.baseurl}}/research/metrics/v1.0.0
-[v1.0.0-beta]: {{site.baseurl}}/research/metrics/v1.0.0-beta
-[v1.0.0-alpha]: {{site.baseurl}}/research/metrics/v1.0.0-alpha
-
-[description_mean_clim]: {{site.baseurl}}/research/metrics/mean_clim/
-[description_variability]: {{site.baseurl}}/research/metrics/variability_modes/
-[description_monsoon]: {{site.baseurl}}/research/metrics/monsoon/
-[description_mjo]: {{site.baseurl}}/research/metrics/mjo/
-[description_enso]: {{site.baseurl}}/research/metrics/enso/
+[description_mean_clim]: latest/mean_clim/
+[description_variability]: latest/variability_modes/
+[description_monsoon]: latest/monsoon/
+[description_mjo]: latest/metrics/mjo/
+[description_enso]: latest/enso/
 
 [lee2019]: https://link.springer.com/article/10.1007/s00382-018-4355-4
 [sperber2004]: https://doi.org/10.1007/s00382-014-2099-3
@@ -83,7 +73,3 @@ Questions or comments about the PCMDI Simulation Summaries should be sent to the
 [Bellenger2014]: https://doi.org/10.1007/s00382-013-1783-z
 [gleckler2008]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD008972
 [taylor2001]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JD900719
-
-[Metrics]:{{site.baseurl}}/research/metrics/index.html
-
-
