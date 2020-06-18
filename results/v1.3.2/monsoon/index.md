@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 
 # Monsoon Onset, Decay, and Duration
 

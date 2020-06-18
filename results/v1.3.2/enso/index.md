@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 
 # El Niño-Southern Oscillation (ENSO)
 <br/>

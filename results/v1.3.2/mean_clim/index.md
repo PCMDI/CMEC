@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 
 # Mean Climate
 <br/>

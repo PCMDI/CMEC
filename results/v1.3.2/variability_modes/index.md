@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 
 # Extratropical Modes of Variability
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
----
 
 # Madden-Julian Oscillation (MJO)
 <br/>
