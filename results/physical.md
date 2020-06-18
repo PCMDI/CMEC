@@ -53,7 +53,7 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 ---
 ## <a name="updates"></a>Update History
 - This page provides latest contents of [PCMDI Simulation Summary][pcmdi_web].
-- Visit [PCMDI][pcmdi_web] for update history and previous versions.
+- Visit [PCMDI][pcmdi_web_updates] for update history and previous versions.
 <p align="right"><a href="#top">Back to List</a></p>
 
 ---
@@ -61,6 +61,8 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 Questions or comments about the PCMDI Simulation Summaries should be sent to the [PMP team](mailto:pcmdi-metrics@llnl.gov).
 
 [pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/
+[pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/index.html#updates
+
 
 [description_mean_clim]: latest/mean_clim/
 [description_variability]: latest/variability_modes/
