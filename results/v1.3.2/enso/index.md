@@ -75,7 +75,7 @@ The ENSO processes metric collection is composed of 8 metrics designed to evalua
 [Bayr2019]: https://doi.org/10.1007/s00382-018-4575-7
 [Bellenger2014]: https://doi.org/10.1007/s00382-013-1783-z
 
-[CMIP5_6_enso_perf]: {{site.baseurl}}/research/metrics/enso/cmip5_6_enso_perf.html
-[CMIP5_6_enso_tel]: {{site.baseurl}}/research/metrics/enso/cmip5_6_enso_tel.html
+[CMIP5_6_enso_perf]: cmip5_6_enso_perf.html
+[CMIP5_6_enso_tel]: cmip5_6_enso_tel.html
 
 [Metrics]:{{site.baseurl}}/research/metrics/index.html
