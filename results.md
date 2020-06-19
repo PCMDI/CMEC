@@ -11,13 +11,13 @@ The sample results available include the following:
 
 ### Physical climate emphasis:
 
-* [CMIP mean state and variability](https://pcmdi.llnl.gov/research/metrics "CMIP mean state and variability")
+* [CMIP mean state and variability](results/physical.html "CMIP mean state and variability")
 
 
 
 ### Biogeochemical climate emphasis:
 
-* [ILAMB CMIP5 Results](https://www.ilamb.org/CMIP5/esmHistorical "ILAMB CMIP5 Results")
+* [ILAMB CMIP5 Results](https://www.ilamb.org/CMIP5/historical/ "ILAMB CMIP5 Results")
 * [ILAMB Community Land Model (CLM) Results](https://www.ilamb.org/CLM "ILAMB CLM Results")
 * [IOMB CMIP5 Results](https://wwww.ilamb.org/IOMB/ "IOMB POP Results")
 
