@@ -3,10 +3,12 @@ layout: default
 title: Physical mean climate and variability
 ---
 
-# <a name="top"></a>_PCMDI Simulation Summaries (v1.3.1)
+# CMIP mean state and variability
+---
+# <a name="top"></a>_PCMDI Simulation Summaries_
 
 <br/>
-The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a capability that can be used to produce a diverse suite of objective summaries of Earth System Model (ESM) agreement with observations. At PCMDI, we are routinely applying the PMP to multiple generations of CMIP, including the most recent results from CMIP6 as they become available. The summaries available below will be regularly updated with new and an expanding set of results.
+The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a capability that can be used to produce a diverse suite of objective summaries of Earth System Model (ESM) agreement with observations. At [PCMDI](https://pcmdi.llnl.gov/), we are routinely applying the PMP to multiple generations of CMIP, including the most recent results from CMIP6 as they become available. The summaries available below will be regularly updated with new and an expanding set of results.
 
 - [**Mean Climate**](#mean_clim)
 - [**Extratropical Modes of Variability**](#variability_modes)
@@ -38,7 +40,7 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 ---
 ## <a name="enso"></a>El Niño-Southern Oscillation ([results][description_enso])
 
-- El Niño-Southern Oscillation (ENSO) is the dominant mode of interannual variability in the tropical Pacific and has far reaching impacts on global climate. It is there therefore key to ensure its correct simulation in state-of-the-art climate models. Community-wide synthesis of metrics to evaluate the performance, teleconnections and processes of ENSO in coupled GCMs is proposed by the ENSO working group of the CLIVAR Pacific panel. The corresponding objective comparisons of simulations against observations shown here result from a collaboration between scientists at IPSL and PCMDI. This effort  strives to improve and expand upon the ENSO model performance tests proposed by [Bellenger et al. (2014)][Bellenger2014] for CMIP5. It will result in a “ENSO in CMIP6” publication in 2019 (Planton et al. 2019, in preparation).
+- El Niño-Southern Oscillation (ENSO) is the dominant mode of interannual variability in the tropical Pacific and has far reaching impacts on global climate. It is there therefore key to ensure its correct simulation in state-of-the-art climate models. Community-wide synthesis of metrics to evaluate the performance, teleconnections and processes of ENSO in coupled GCMs is proposed by the ENSO working group of the CLIVAR Pacific panel. The corresponding objective comparisons of simulations against observations shown here result from a collaboration between scientists at IPSL and PCMDI. This effort  strives to improve and expand upon the ENSO model performance tests proposed by [Bellenger et al. (2014)][Bellenger2014] for CMIP5. It will result in a “ENSO in CMIP6” publication in 2019 (Planton et al. 2020, BAMS, under review).
 
 <p align="right"><a href="#top">Back to List</a></p>
 
@@ -48,3 +50,29 @@ The [PCMDI Metrics Package (PMP)](https://github.com/PCMDI/pcmdi_metrics) is a c
 
 <p align="right"><a href="#top">Back to List</a></p>
 
+---
+## <a name="updates"></a>Update History
+- This page provides latest contents of [PCMDI Simulation Summary][pcmdi_web].
+- Visit [PCMDI][pcmdi_web_updates] for update history and previous versions.
+<p align="right"><a href="#top">Back to List</a></p>
+
+---
+
+Questions or comments about the PCMDI Simulation Summaries should be sent to the [PMP team](mailto:pcmdi-metrics@llnl.gov).
+
+[pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/
+[pcmdi_web_updates]: https://pcmdi.llnl.gov/research/metrics/index.html#updates
+
+
+[description_mean_clim]: latest/mean_clim/
+[description_variability]: latest/variability_modes/
+[description_monsoon]: latest/monsoon/
+[description_mjo]: latest/mjo/
+[description_enso]: latest/enso/
+
+[lee2019]: https://link.springer.com/article/10.1007/s00382-018-4355-4
+[sperber2004]: https://doi.org/10.1007/s00382-014-2099-3
+[ahn2017]: https://doi.org/10.1007/s00382-017-3558-4
+[Bellenger2014]: https://doi.org/10.1007/s00382-013-1783-z
+[gleckler2008]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD008972
+[taylor2001]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JD900719
