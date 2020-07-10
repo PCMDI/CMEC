@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > Extratropical Modes of Variability
+---
 
 # Extratropical Modes of Variability
 
@@ -13,7 +15,7 @@ layout: default
 
 ## <a name="rmse"></a>RMSE Portrait Plots
 
-[<img src="https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512_rmse/clickable_portrait.png" alt="CMIP5 historical RMSE" width="200">][CMIP5_variability_rmse]
+[<img src="https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512_rmse/clickable_portrait.png" alt="Interactive Portrait Plot (CMIP5)" title="Interactive Portrait Plot (CMIP5)" width="200">][CMIP5_variability_rmse]
 
 #### (Click thumbnail image for the interactive version for CMIP5 historical)
 <br/>
@@ -49,7 +51,7 @@ There are several general conclusions that we can draw from the RMSE Portrait Pl
 
 ## <a name="amplitude"></a>Amplitude Portrait Plots
  
-[<img src="https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512/clickable_portrait.png" alt="CMIP5 historical Amplitude" width="200">][CMIP5_variability_amplitude]
+[<img src="https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512/clickable_portrait.png" alt="Interactive Portrait Plot (CMIP5)" title="Interactive Portrait Plot (CMIP5)" width="200">][CMIP5_variability_amplitude]
 
 #### (Click thumbnail image for the interactive version for CMIP5 historical)
 <br/>
@@ -79,7 +81,6 @@ It is notable that for the majority of amplitude cells the model-to-observed ref
 
 > Lee, J., Sperber, K.R., Gleckler, P.J., Bonfils, C.J. and Taylor, K.E., 2019. Quantifying the agreement between observed and simulated extratropical modes of interannual variability. Climate Dynamics, 52: 4057-4089, [doi: 10.1007/s00382-018-4355-4][lee2019].
 
-[Metrics]:{{site.baseurl}}/research/metrics/index.html
 
 [lee2019]: https://link.springer.com/article/10.1007/s00382-018-4355-4
 
@@ -89,4 +90,7 @@ It is notable that for the majority of amplitude cells the model-to-observed ref
 [CMIP6_variability_rmse]: https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip6_v20190503_rmse/clickable_portrait.html
 
 [cmip5_rmse]:  https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512_rmse/clickable_portrait.png "CMIP5 historical RMSE"
+
+[results]:{{site.baseurl}}/results.html
+[mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
 
