@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > ENSO
+---
 
 # El Niño-Southern Oscillation (ENSO)
 <br/>
@@ -65,3 +67,6 @@ The ENSO processes metric collection is composed of 11 metrics designed to evalu
 [Bellenger2014]: https://doi.org/10.1007/s00382-013-1783-z
 
 [ipp_enso]: https://pcmdi.llnl.gov/pmp-preliminary-results/interactive_plot/portrait_plot/enso_metric/enso_metrics_interactive_portrait_plots_v20200710.html
+
+[results]:{{site.baseurl}}/results.html
+[mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
