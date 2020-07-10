@@ -28,7 +28,6 @@ This effort is described in detail in the following manuscript:  Planton, Y., E.
 <br/>
 
 ## General Results
-<br/>
 
 The ENSO performance metric collection is composed of 15 metrics designed to evaluate the models on three aspects:
 - Background climatology: double ITCZ, equator too dry, too cold cold tongue, shifted trade winds (mean biases and seasonal cycles)
@@ -51,7 +50,6 @@ The ENSO processes metric collection is composed of 11 metrics designed to evalu
 ---
 
 ## Reference
-<br/>
 
   > Planton, Y., E. Guilyardi, A. T. Wittenberg, J. Lee, P. J. Gleckler, T. Bayr, S. McGregor, M. J. McPhaden, S. Power, R. Roehrig, J. Vialard, A Voldoire, 2020: **Evaluating climate models with the CLIVAR 2020 ENSO metrics package**, _Bulletin of the American Meteorological Society_, in review.
   
