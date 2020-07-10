@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > MJO
+---
 
 # Madden-Julian Oscillation (MJO)
 <br/>
@@ -55,5 +57,5 @@ Here we apply the frequency-wavenumber decomposition method to precipitation fro
 [CMIP56_ewr_models]: https://pcmdi.llnl.gov/pmp-preliminary-results/mjo_metrics/mjo_ewr_cmip5and6_overlap_runs_average_sorted_standalone.html
 [CMIP56_ewr_mips]: https://pcmdi.llnl.gov/pmp-preliminary-results/mjo_metrics/mjo_ewr_cmip5and6_overlap_runs_average_standalone.html
 
-
-[Metrics]:{{site.baseurl}}/research/metrics/index.html
+[results]:{{site.baseurl}}/results.html
+[mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
