@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > Mean Climate
+---
 
 # Mean Climate
 <br/>
@@ -70,3 +72,6 @@ Mean state results from the PCMDI Metrics Package (PMP) are used to produce "qui
 [taylor2001]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JD900719
 
 [obs_info]: https://raw.githubusercontent.com/PCMDI/PCMDIobs-cmor-tables/master/catalogue/pcmdiobs2_clims_byVar_catalogue_v20200615.json 
+
+[results]:{{site.baseurl}}/results.html
+[mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
