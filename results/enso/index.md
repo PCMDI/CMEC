@@ -20,7 +20,7 @@ This effort is described in detail in the following manuscript:  Planton, Y., E.
 <br/>
 
 ## Summary statistics in Interactive Portrait Plots
-- [**CMIP5 & 6 Historical**][ipp_enso] (updated 10 July 2020)
+- [**CMIP5 & 6 Historical**][ipp_enso] (updated 10 July 2020. <font color=red>NOTE: Currently it does not supported by Microsoft Internet Explorer. We are working on it to fix. During the mean time, please consider using other internet browsers such as [Chrome][chrome] and Firefox. Sorry for the inconvenience.</font>)
 
 [<img src="https://pcmdi.llnl.gov/pmp-preliminary-results/interactive_plot/portrait_plot/enso_metric/raw_values/enso_metrics_interactive_portrait_plots_v20200710.png" alt="Interactive Portrait Plot" title="Interactive Portrait Plot" width="200">][ipp_enso]
 
@@ -69,3 +69,6 @@ The ENSO processes metric collection is composed of 11 metrics designed to evalu
 
 [results]:{{site.baseurl}}/results.html
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
+
+[chrome]: https://www.google.com/chrome/
+[firefox]: https://www.mozilla.org/en-US/firefox/
