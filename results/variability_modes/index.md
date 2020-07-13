@@ -1,5 +1,6 @@
 ---
 layout: default
+title: CMEC - Extratropical MoV
 ---
 ###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > Extratropical Modes of Variability
 ---
