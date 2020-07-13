@@ -11,7 +11,7 @@ The sample results available include the following:
 
 ### Physical climate emphasis:
 
-* [CMIP mean state and variability](results/physical.html "CMIP mean state and variability")
+* [CMIP mean state and variability](physical.html "CMIP mean state and variability")
 
 
 

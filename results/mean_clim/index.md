@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Mean Climate
 ---
 ###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > Mean Climate
 ---
