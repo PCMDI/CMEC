@@ -11,7 +11,7 @@ high-level summary statistics that gauge differences between models and
 observations. The emphasis is on the physical system in Earth System Models
 (ESMs) and their component sub-models. The PMP provides holistic summaries
 spanning space and time scales for the simulated atmosphere, ocean, ice and
-land with the CMEC <a href="{{site.baseurl}}/results.html">examples available on
+land with the CMEC <a href="{{site.baseurl}}/results">examples available on
 this site</a> highlighting atmospheric characteristics.
 
 The goals of the PMP are to:
@@ -53,8 +53,8 @@ calculated metrics.
 <b>Quick links:</b> <a href="https://github.com/PCMDI/pcmdi_metrics"
 target="_blank">Repository</a>,
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install" target="_blank">
-Installation</a>, <a href="{{site.baseurl}}/results.html" target="_blank">CMIP5
-AMIP and Historical Results</a>, <a href="{{site.baseurl}}/results.html"
+Installation</a>, <a href="{{site.baseurl}}/results" target="_blank">CMIP5
+AMIP and Historical Results</a>, <a href="{{site.baseurl}}/results"
 target="_blank">CMIP5 interannual variability</a>
 <br>
 <b> Contact:</b> Peter J. Gleckler (gleckler1@llnl.gov)
