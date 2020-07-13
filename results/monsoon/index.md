@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMEC - Monsoon
+title: Monsoon
 ---
 ###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > Monsoon
 ---

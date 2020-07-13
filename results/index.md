@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMEC - Results
+title: Results
 ---
 
 ## Results

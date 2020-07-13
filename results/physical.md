@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMEC - Physical mean climate and variability
+title: Physical mean climate and variability
 ---
 ###### [Results][results] > CMIP mean state and variability
 ---
