@@ -12,11 +12,11 @@ The sample results available include the following:
 ### Physical climate emphasis:
 
 * [CMIP mean state and variability](physical.html "CMIP mean state and variability")
-  - [**Mean Climate**][mean_clim]
-  - [**El Niño–Southern Oscillation (ENSO)**][enso]
-  - [**Extratropical Modes of Variability**][variability_modes]
-  - [**Madden-Julian Oscillation (MJO)**][mjo]
-  - [**Monsoon Precipitation: Fractional Accumulation**][monsoon]
+  - [Mean Climate][mean_clim]
+  - [El Niño–Southern Oscillation (ENSO)][enso]
+  - [Extratropical Modes of Variability][variability_modes]
+  - [Madden-Julian Oscillation (MJO)][mjo]
+  - [Monsoon Precipitation: Fractional Accumulation][monsoon]
 
 ### Biogeochemical climate emphasis:
 
