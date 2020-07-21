@@ -7,23 +7,22 @@ title: MJO
 
 # Madden-Julian Oscillation (MJO)
 <br/>
-These results are based on the work of [Ahn et al. (2017)][ahn2017]. Implementation of the MJO analysis into the PMP is part of a PCMDI collaboration with [Prof. Daehyun Kim (University of Washington)][dhkim], [his group][dhkimgroup], and the [WGNE MJO Task Force][mjotaskforce].
- 
-<br/>
-The MJO consists of large-scale regions of enhanced and suppressed convection, and associated circulation anomalies in the tropics that propagate eastward, mainly over the eastern hemisphere, with a time scale of ~30-60 days (Madden and Julian [1971][Madden1971], [1972][Madden1972], [1994][Madden1994]). Its large-scale nature and period are easily seen via frequency-wavenumber decomposition of near-equatorial data (10°S to 10°N), which partitions the raw anomalies into eastward and westward propagating components and also as a function of frequency (cycles/day). The frequency-wavenumber decomposition technique has been widely used to assess if models properly represent this basic characteristic of the MJO (e.g., [CLIVAR MJO Working Group 2009][clivarmjo2009]; [Kim et al. 2009][kim2009]; [Ahn et al. 2017][ahn2017]). 
- 
+The MJO consists of large-scale regions of enhanced and suppressed convection, and associated circulation anomalies in the tropics that propagate eastward, mainly over the eastern hemisphere, with a time scale of ~30-60 days (Madden and Julian [1971][Madden1971], [1972][Madden1972], [1994][Madden1994]). Its large-scale nature and period are easily seen via frequency-wavenumber decomposition of near-equatorial data (10°S to 10°N), which partitions the raw anomalies into eastward and westward propagating components and also as a function of frequency (cycles/day). The frequency-wavenumber decomposition technique has been widely used to assess if models properly represent this basic characteristic of the MJO (e.g., [CLIVAR MJO Working Group 2009][clivarmjo2009]; [Kim et al. 2009][kim2009]; [Ahn et al. 2017][ahn2017]).
+
 <br/>
 Here we apply the frequency-wavenumber decomposition method to precipitation from observations (GPCP-based; 1997-2010) and the CMIP5 and CMIP6 Historical simulations for 1985-2004. For disturbances with wavenumbers 1-3 and frequencies corresponding to 30-60 days it is clear in observations that the eastward propagating signal dominates over its westward propagating counterpart. Thus, an important metric is the eastward/westward power ratio (EWR) for the above-mentioned wavenumbers and frequencies, which is about 2.5 in observations.
 
 <br/>
+The EWR results are based on the work of [Ahn et al. (2017)][ahn2017]. Implementation of these and other MJO analysis into the PMP is part of a PCMDI collaboration with [Prof. Daehyun Kim (University of Washington)][dhkim], [his group][dhkimgroup], and the [WGNE MJO Task Force][mjotaskforce].
+
+<br/>
 ### Summary statistics in Interactive Bar Charts
-  - #### A. CMIP5 and CMIP6 Historical (organized by modelling center): [EWR][CMIP56_ewr_models]
-  - #### B. CMIP5 and CMIP6 Historical (distinct groups): [EWR][CMIP56_ewr_mips]
+  - **[EWR for CMIP5 and CMIP6 Historical][ewribc]** (last update: 20 July 2020)
 
 
 <br/>
 ### General Results
-- ***Preliminary findings***: [Panel A][CMIP56_ewr_models] provides a comparison of the EWR between the observations and CMIP5 and CMIP6. As presented, this plot facilitates comparison of the EWR by modelling center. [Panel B][CMIP56_ewr_mips] presents the same results, but for  CMIP5 and CMIP6 as distinct groups. The preliminary result is that the EWR is better simulated in CMIP6 compared to CMIP5.
+- ***Preliminary findings***: The [Interactive Bar Chart][ewribc] provides a comparison of the EWR among the observations, CMIP5, and CMIP6. As presented, this plot facilitates comparison of the EWR by CMIP5 and CMIP6 groups, by modelling center, and by the ascending order of the value.
 
 - ***Cautionary Note***: *The MJO frequency and wavenumber windowing is based on observations. Thus, while the EWR provides an initial evaluation of the propagation characteristics of the observed and simulated MJO, it is instructive to look at the frequency-wavenumber spectra, as in some cases the dominant periodicity in a model may be different than in observations.* ***Figures of the frequency-wavenumber power spectra are obtained by left-clicking on the statistics that pop-up when you hover your mouse over a histogram bar (mean over all realizations) or a dot (for an individual realization).***
 
@@ -57,6 +56,7 @@ Here we apply the frequency-wavenumber decomposition method to precipitation fro
 
 [CMIP56_ewr_models]: https://pcmdi.llnl.gov/pmp-preliminary-results/mjo_metrics/mjo_ewr_cmip5and6_overlap_runs_average_sorted_standalone.html
 [CMIP56_ewr_mips]: https://pcmdi.llnl.gov/pmp-preliminary-results/mjo_metrics/mjo_ewr_cmip5and6_overlap_runs_average_standalone.html
+[ewribc]: https://pcmdi.llnl.gov/pmp-preliminary-results/interactive_plot/mjo/bar_chart/mjo_ewr_cmip5and6_overlap_runs_average_v20200720.html
 
 [results]:{{site.baseurl}}/results.html
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
