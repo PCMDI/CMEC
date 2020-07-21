@@ -29,7 +29,7 @@ the context of all previous generations of AMIP and CMIP.
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
 <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>, and
-<a href=results/physical.html">Results</a>
+<a href="results/physical.html">Results</a>
 </div>
 
 ******
