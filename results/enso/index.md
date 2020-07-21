@@ -69,7 +69,7 @@ The ENSO processes metric collection is composed of 11 metrics designed to evalu
 
 [ipp_enso]: https://pcmdi.llnl.gov/pmp-preliminary-results/interactive_plot/portrait_plot/enso_metric/enso_metrics_interactive_portrait_plots_v20200720.html
 
-[results]:{{site.baseurl}}/results.html
+[results]:{{site.baseurl}}/results
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
 
 [chrome]: https://www.google.com/chrome/

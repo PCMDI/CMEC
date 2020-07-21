@@ -34,5 +34,5 @@ The results are presented in terms of the model pentad minus the observed pentad
 [CMIP5_monsoon_sperber_decay]: https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_monsoon_sperber/decay_index_rel2obs_v20190618/clickable_portrait.html
 [CMIP5_monsoon_sperber_duration]: https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_monsoon_sperber/duration_rel2obs_v20190618/clickable_portrait.html
 
-[results]:{{site.baseurl}}/results.html
+[results]:{{site.baseurl}}/results
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
