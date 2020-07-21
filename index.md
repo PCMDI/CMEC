@@ -82,8 +82,8 @@ capabilities to collaborate and to deliver a unified set of results.
         <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
         <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics"
-        target="_blank">Repository</a> and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
-        target="_blank">Installation</a>
+        target="_blank">Repository</a>, <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
+        target="_blank">Installation</a>, and <a href="results/physical.html" target="_blank">Results</a>
         </p>
     </div>
     <div id="teca-popover-content">
