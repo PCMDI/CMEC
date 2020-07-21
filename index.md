@@ -102,7 +102,7 @@ capabilities to collaborate and to deliver a unified set of results.
         <a href="https://github.com/LBL-EESA/TECA" target="_blank">Repository</a>,
         <a href="https://github.com/LBL-EESA/TECA_superbuild" target="_blank">Installation</a>, and
         <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf"
-        target="_blank">documentation</a>
+        target="_blank">Documentation</a>
         </p>
     </div>
     <div id="ilamb-popover-content">
