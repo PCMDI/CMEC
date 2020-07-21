@@ -92,6 +92,6 @@ It is notable that for the majority of amplitude cells the model-to-observed ref
 
 [cmip5_rmse]:  https://pcmdi.llnl.gov/pmp-preliminary-results/ipp_test_variability_modes/cmip5_v20190512_rmse/clickable_portrait.png "CMIP5 historical RMSE"
 
-[results]:{{site.baseurl}}/results.html
+[results]:{{site.baseurl}}/results
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
 
