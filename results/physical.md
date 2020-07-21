@@ -93,4 +93,4 @@ The efforts of the authors are supported by the [Regional and Global Climate Mod
 [pcmdi]: https://pcmdi.llnl.gov/
 [ipsl]: https://www.ipsl.fr/en/
 
-[results]:{{site.baseurl}}/results.html
+[results]:{{site.baseurl}}/results
