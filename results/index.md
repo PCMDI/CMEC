@@ -12,8 +12,12 @@ The sample results available include the following:
 ### Physical climate emphasis:
 
 * [CMIP mean state and variability](physical.html "CMIP mean state and variability")
-
-
+  - [Mean Climate][mean_clim]
+  - [El Niño–Southern Oscillation (ENSO)][enso]
+  - [Extratropical Modes of Variability][variability_modes]
+  - [Madden-Julian Oscillation (MJO)][mjo]
+  - [Monsoon Precipitation: Fractional Accumulation][monsoon]
+  -  Benchmarking Simulated Precipitation (coming soon) 
 
 ### Biogeochemical climate emphasis:
 
@@ -24,3 +28,10 @@ The sample results available include the following:
 ### Extreme weather emphasis:
 
 * [Sample results from Wehner et al. (2015, J. Clim.)](teca_wehner_results.html "Sample results from Wehner et al. (2015, J. Clim.)")
+
+
+[mean_clim]: mean_clim
+[enso]: enso
+[variability_modes]: variability_modes
+[mjo]: mjo
+[monsoon]: monsoon
