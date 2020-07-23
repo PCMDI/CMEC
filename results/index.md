@@ -17,11 +17,11 @@ The sample results available include the following:
   - [Extratropical Modes of Variability][variability_modes]
   - [Madden-Julian Oscillation (MJO)][mjo]
   - [Monsoon Precipitation: Fractional Accumulation][monsoon]
+  -  Benchmarking Simulated Precipitation (coming soon) 
 
 ### Biogeochemical climate emphasis:
 
 * [ILAMB CMIP5 Results](https://www.ilamb.org/CMIP5/historical/ "ILAMB CMIP5 Results")
-* [ILAMB CMIP6 Results](https://www.ilamb.org/CMIP6/historical/ "ILAMB CMIP6 Results")
 * [ILAMB Community Land Model (CLM) Results](https://www.ilamb.org/CLM "ILAMB CLM Results")
 * [IOMB CMIP5 Results](https://www.ilamb.org/IOMB/ "IOMB POP Results")
 
