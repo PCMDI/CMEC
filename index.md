@@ -9,8 +9,11 @@ title: CMEC
     <p class="col-sm-12 col-md-12 col-lg-5">
     Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis
     packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs).
-    Currently, CMEC includes three capabilities that are supported by the U.S. Department of Energy, Office
-    of Biological and Environmental Research (BER), Regional and Global Climate Modeling Program (RGCM). As
+    Currently, CMEC includes three capabilities that are supported by 
+    <a href="https://www.energy.gov/">the U.S. Department of Energy</a>, 
+    <a href="https://www.energy.gov/science/ber">Office of Biological and Environmental Research (BER)</a>, 
+    <a href="https://climatemodeling.science.energy.gov/program/regional-global-model-analysis">Regional 
+    and Global Climate Modeling Program (RGCM)</a>. As
     CMEC advances, additional analysis packages will be included from community-based expert teams as well
     a efforts directly supported by DOE and other US and international agencies.
     </p>
@@ -53,7 +56,7 @@ title: CMEC
 
 A primary motivation for CMEC is to analyze model simulations that are contributed to the
 <a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually every institution worldwide involved in significant development of ESMs contributes simulations to CMIP.
-<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (CMIP6;
+<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">CMIP6</a>;
 <a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>;
 <a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental
 shift away from distinct CMIP phases with the advent of an ongoing core of benchmarking experiments known as the
@@ -79,8 +82,8 @@ capabilities to collaborate and to deliver a unified set of results.
         <img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png" class="full-width">
         <p>
         <span class="bold">Quick links</span>: <a href="https://github.com/PCMDI/pcmdi_metrics"
-        target="_blank">Repository</a> and <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
-        target="_blank">Installation</a>
+        target="_blank">Repository</a>, <a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install"
+        target="_blank">Installation</a>, and <a href="results/physical.html" target="_blank">Results</a>
         </p>
     </div>
     <div id="teca-popover-content">
@@ -99,7 +102,7 @@ capabilities to collaborate and to deliver a unified set of results.
         <a href="https://github.com/LBL-EESA/TECA" target="_blank">Repository</a>,
         <a href="https://github.com/LBL-EESA/TECA_superbuild" target="_blank">Installation</a>, and
         <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf"
-        target="_blank">documentation</a>
+        target="_blank">Documentation</a>
         </p>
     </div>
     <div id="ilamb-popover-content">
