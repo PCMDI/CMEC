@@ -17,6 +17,7 @@ The sample results available include the following:
   - [Extratropical Modes of Variability][variability_modes]
   - [Madden-Julian Oscillation (MJO)][mjo]
   - [Seasonal Monsoon (example)][monsoon]
+  -  Benchmarking Simulated Precipitation (coming soon) 
 
 ### Biogeochemical climate emphasis:
 
