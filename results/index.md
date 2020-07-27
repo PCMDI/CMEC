@@ -16,7 +16,7 @@ The sample results available include the following:
   - [El Niño–Southern Oscillation (ENSO)][enso]
   - [Extratropical Modes of Variability][variability_modes]
   - [Madden-Julian Oscillation (MJO)][mjo]
-  - [Monsoon Precipitation: Fractional Accumulation][monsoon]
+  - [Seasonal Monsoon (example)][monsoon]
   -  Benchmarking Simulated Precipitation (coming soon) 
 
 ### Biogeochemical climate emphasis:
