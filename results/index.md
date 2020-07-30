@@ -24,9 +24,6 @@ CMEC capabilities are being used to provide objective summaries of CMIP6 simulat
 * [ILAMB Community Land Model (CLM) Results](https://www.ilamb.org/CLM "ILAMB CLM Results")
 * [IOMB CMIP5 Results](https://www.ilamb.org/IOMB/ "IOMB POP Results")
 
-### Extreme weather emphasis:
-
-* [Sample results from Wehner et al. (2015, J. Clim.)](teca_wehner_results.html "Sample results from Wehner et al. (2015, J. Clim.)")
 
 
 [mean_clim]: mean_clim
