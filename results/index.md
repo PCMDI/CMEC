@@ -5,9 +5,7 @@ title: Results
 
 ## Results
 
-In preparation for CMIP6, the CMEC capabilities will be used to provide summaries of CMIP5 simulations. At this time the results available here are subject to ongoing quality control and may be changing frequently. They are for research purposes only.
-
-The sample results available include the following:
+CMEC capabilities are being used to provide objective summaries of CMIP6 simulations and in some cases earlier generations. The results here are subject to ongoing quality control and are being updated frequently. They are for research purposes only.  Currently, available results include the following:
 
 ### Physical climate emphasis:
 
@@ -26,9 +24,6 @@ The sample results available include the following:
 * [ILAMB Community Land Model (CLM) Results](https://www.ilamb.org/CLM "ILAMB CLM Results")
 * [IOMB CMIP5 Results](https://www.ilamb.org/IOMB/ "IOMB POP Results")
 
-### Extreme weather emphasis:
-
-* [Sample results from Wehner et al. (2015, J. Clim.)](teca_wehner_results.html "Sample results from Wehner et al. (2015, J. Clim.)")
 
 
 [mean_clim]: mean_clim
