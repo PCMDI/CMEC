@@ -5,7 +5,7 @@ title: Results
 
 ## Results
 
-CMEC capabilities are being used to provide objective summaries of CMIP6 simulations and in some cases earlier generations. The results here are subject to ongoing quality control and are being updated frequently. They are for research purposes only.  Currently results available include the following:
+CMEC capabilities are being used to provide objective summaries of CMIP6 simulations and in some cases earlier generations. The results here are subject to ongoing quality control and are being updated frequently. They are for research purposes only.  Currently, available results include the following:
 
 ### Physical climate emphasis:
 
