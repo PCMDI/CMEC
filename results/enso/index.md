@@ -15,7 +15,7 @@ The corresponding objective comparisons of simulations against observations show
 <br/>
 <br/>
 
-This effort is described in detail in the following manuscript:  Planton, Y., E. Guilyardi, A. T. Wittenberg, J. Lee, P. J. Gleckler, T. Bayr, S. McGregor, M. J. McPhaden, S. Power, R. Roehrig, J. Vialard, A Voldoire, 2020: **Evaluating climate models with the CLIVAR 2020 ENSO metrics package**, _Bulletin of the American Meteorological Society_, in review.
+This effort is described in detail in the following manuscript:  Planton, Y., E. Guilyardi, A. T. Wittenberg, J. Lee, P. J. Gleckler, T. Bayr, S. McGregor, M. J. McPhaden, S. Power, R. Roehrig, J. Vialard, A Voldoire, 2020: **Evaluating climate models with the CLIVAR 2020 ENSO metrics package**, _Bulletin of the American Meteorological Society_, https://doi.org/10.1175/BAMS-D-19-0337.1.
 <br/>
 <br/>
 <br/>
@@ -53,7 +53,7 @@ The ENSO processes metric collection is composed of 11 metrics designed to evalu
 
 ## Reference
 
-  > Planton, Y., E. Guilyardi, A. T. Wittenberg, J. Lee, P. J. Gleckler, T. Bayr, S. McGregor, M. J. McPhaden, S. Power, R. Roehrig, J. Vialard, A Voldoire, 2020: **Evaluating climate models with the CLIVAR 2020 ENSO metrics package**, _Bulletin of the American Meteorological Society_, in review.
+  > Planton, Y., E. Guilyardi, A. T. Wittenberg, J. Lee, P. J. Gleckler, T. Bayr, S. McGregor, M. J. McPhaden, S. Power, R. Roehrig, J. Vialard, A Voldoire, 2020: **Evaluating climate models with the CLIVAR 2020 ENSO metrics package**, _Bulletin of the American Meteorological Society_, https://doi.org/10.1175/BAMS-D-19-0337.1.
   
   > Bellenger, H., Guilyardi, E., Leloup, J. et al. Clim Dyn (2014) 42: 1999. [doi: 10.1007/s00382-013-1783-z][Bellenger2014]
 
