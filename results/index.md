@@ -13,11 +13,11 @@ The sample results available include the following:
 
 * [CMIP mean state and variability](physical.html "CMIP mean state and variability")
   - [Mean Climate][mean_clim]
-  - [Benchmarking Precipitation][precip]
+  - [Benchmarking Simulated Precipitation][precip]
   - [El Niño–Southern Oscillation (ENSO)][enso]
   - [Extratropical Modes of Variability][variability_modes]
   - [Madden-Julian Oscillation (MJO)][mjo]
-  - [Seasonal Monsoon (example)][monsoon]
+  - [Monsoon Characteristics (example)][monsoon]
 
 ### Biogeochemical climate emphasis:
 
