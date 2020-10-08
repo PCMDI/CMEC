@@ -24,3 +24,4 @@ title: Precipitation
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
 [precip]:{{site.baseurl}}/results/precip
 [pmpmean]: {{site.baseurl}}/results/mean_clim
+[results]:{{site.baseurl}}/results

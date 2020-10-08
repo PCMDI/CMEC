@@ -40,3 +40,4 @@ Following Taylor diagrams (equivalent to Fig. 8 of [Wehner et al. 2020](#wehner2
 
 [precip]:{{site.baseurl}}/results/precip
 [mean_and_variability_index_page]: {{site.baseurl}}/results/physical.html
+[results]:{{site.baseurl}}/results
