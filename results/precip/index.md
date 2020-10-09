@@ -8,8 +8,6 @@ title: Precipitation
 # Benchmarking Simulated Precipitation
 
 
-<br/>
-
 Welcome to the results site for benchmarking simulated precipitation in Earth System Models (ESMs)! This effort has been inspired by the outcomes of a July 2019 DOE workshop (Pendergrass, et al., 2019).  That workshop was motivated by discussions that have taken place in recent years in various working groups of the WCRP including the Working Group on Numerical Experimentation (WGNE) and Working Group on Coupled Models (WGCM).  This site was initially made public 2020/10/10 and will be regularly updated as our efforts advance, so check back here soon to see progress.  
 
 <br/>
@@ -25,15 +23,11 @@ Welcome to the results site for benchmarking simulated precipitation in Earth Sy
 
 - [**Taylor diagrams of spatial distribution** (CMIP6-histotical)][mean]
 
-<br/>
-
 
 ## Seasonal Cycle
 
 - [**Line graph of domain averaged seasonal cycle with monthly mean** (CMIP6-histotical)][Line_SC-1]
 - [**Bar chart of RMS and RMSC for the seasonal cycle** (CMIP6-histotical)][Bar_SC-1]
-
-<br/>
 
 
 
@@ -59,8 +53,6 @@ Welcome to the results site for benchmarking simulated precipitation in Earth Sy
 
 - [**Bar chart of domain averaged sub-daily intermittency** (CMIP6-amip)][Bar_SDI-1]
 
-<br/>
-
 
 
 ## Intensity/Frequency Distribution
@@ -69,30 +61,19 @@ Welcome to the results site for benchmarking simulated precipitation in Earth Sy
 
 - [**Bar chart of domain averaged Unevenness** (CMIP6-histotical)][Bar_IFD-1]
 
-<br/>
-
-
 
 ## Extremes  
 
 - [**Precipitation extremes** (CMIP5&6-histotical)][extreme]
-
-<br/>
 
 
 ## Drought
 
 Comming soon:  Frequency of SPI spells and consecutive dry days.
 
-<br/>
-
-
-
 ---
 
 ## References
-<br/>
-
 
 Covey, C, PJ Gleckler, C Doutriaux, DN Williams, A Dai, J Fasullo, K Trenberth, and  A Berg. 2016. ”Metrics for the diurnal cycle of precipitation: Toward routine benchmarks for climate models.”  Journal of Climate 29(12): 4461–4471,  https://doi.org/10.1175/JCLI-D-15-0664.1
 
