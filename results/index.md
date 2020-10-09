@@ -11,11 +11,11 @@ CMEC capabilities are being used to provide objective summaries of CMIP6 simulat
 
 * [CMIP mean state and variability](physical.html "CMIP mean state and variability")
   - [Mean Climate][mean_clim]
+  - [Benchmarking Simulated Precipitation][precip]
   - [El Niño–Southern Oscillation (ENSO)][enso]
   - [Extratropical Modes of Variability][variability_modes]
   - [Madden-Julian Oscillation (MJO)][mjo]
-  - [Seasonal Monsoon (example)][monsoon]
-  -  Benchmarking Simulated Precipitation (coming soon) 
+  - [Monsoon Characteristics (example)][monsoon]
 
 ### Biogeochemical climate emphasis:
 
@@ -31,3 +31,4 @@ CMEC capabilities are being used to provide objective summaries of CMIP6 simulat
 [variability_modes]: variability_modes
 [mjo]: mjo
 [monsoon]: monsoon
+[precip]: precip
