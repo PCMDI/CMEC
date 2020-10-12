@@ -2,7 +2,7 @@
 layout: default
 title: Precipitation
 ---
-###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > [Benchmarking Precipitation][precip] > Extreme
+###### [Results][results] > [CMIP mean state and variability][mean_and_variability_index_page] > [Benchmarking Simulated Precipitation][precip] > Extreme
 ---
 
 # Precipitation Extremes 
