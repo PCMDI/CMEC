@@ -85,8 +85,6 @@ The PCMDI Metrics Package ([PMP][pmp]) is a capability that is used to produce a
 
 <p align="right"><a href="#top">Back to List</a></p>
 
-<p align="right"><a href="#top">Back to List</a></p>
-
 ---
 
 Questions or comments about the PCMDI Simulation Summaries should be sent to the [PMP team](mailto:pcmdi-metrics@llnl.gov).
