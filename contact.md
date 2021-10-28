@@ -3,6 +3,11 @@ layout: default
 title: Contacts
 ---
 
+## CMEC:
+
+Paul Ullrich \\
+<paullrich@ucdavis.edu>
+
 ## PMP: 
 
 Peter J. Gleckler \\
@@ -17,9 +22,3 @@ Forrest M. Hoffman \\
 
 William D. Collins \\
 <wdcollins@lbl.gov>
-
-## CMEC:
-
-The above contacts and 
-Paul Ullrich \\
-<paullrich@ucdavis.edu>

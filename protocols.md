@@ -5,6 +5,11 @@ title: Protocols
 
 # Protocols
 
+Conventions for module contributions
+------
+
+A CMEC-compliant module is software that completes one or more model evaluation workflows. At a minimum, the module source code must include a driver script that executes a lowest common denominator version of the workflow along with an accompanying module metadata file. When a module includes multiple different workflows (called “configurations” in the standards), a table of contents file is included. The module output bundle should include an output metadata file and, when metrics are included, should provide a copy of those metrics in a standardized format. Specifications for these module files are detailed in the CMEC-MDTF standards documentation, which can be made available to potential collaborators.
+
 Conventions for input data
 ------
 
