@@ -136,8 +136,9 @@ output.
 <h3>
 Community contributed packages
 </h3>
-<p>
 <a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
+<br>
 <a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
+<br>
 <a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
 
