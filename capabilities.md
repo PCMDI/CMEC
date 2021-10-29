@@ -8,6 +8,21 @@ title: Capabilities
 The capabilities currently contributing to CMEC are briefly highlighted below:
 
 ******
+<!-- CMEC driver -->
+<div class="span4 box">
+<h3>
+CMEC driver
+</h3>
+<p>
+CMEC driver is a command-line program that manages execution of CMEC-compliant evaluation modules.  It has been designed to provide a user with a simple and consistent interface regardless of the evaluation module (or set of modules) employed, and is responsible for organization of the output data produced by these evaluations.
+</p>
+<br>
+<strong>Quick links</strong>:
+<a href="https://github.com/cmecmetrics/cmec-driver">Repository</a>, 
+<a href="https://github.com/cmecmetrics/cmec-driver#installation">Installation</a>
+</div>
+
+******
 
 <!-- PMP -->
 <div class="span4 box">
@@ -113,3 +128,17 @@ output.
 <a href="https://github.com/LBL-EESA/TECA_superbuild">Installation</a>,
 <a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>
 </div>
+
+******
+
+<!-- Community -->
+<div class="span4 box">
+<h3>
+Community contributed packages
+</h3>
+<a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
+<br>
+<a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
+<br>
+<a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
+
