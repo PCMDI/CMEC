@@ -14,7 +14,7 @@ The capabilities currently contributing to CMEC are briefly highlighted below:
 CMEC driver
 </h3>
 <p>
-CMEC driver is a command-line program that executes CMEC-compliant model evaluation modules.
+CMEC driver is a command-line program that manages execution of CMEC-compliant evaluation modules.  It has been designed to provide a user with a simple and consistent interface regardless of the evaluation module (or set of modules) employed, and is responsible for organization of the output data produced by these evaluations.
 </p>
 <br>
 <strong>Quick links</strong>:
