@@ -9,13 +9,12 @@ title: CMEC
     <p class="col-sm-12 col-md-12 col-lg-5">
     Coordinated Model Evaluation Capabilities (CMEC) is an effort to bring together a diverse set of analysis
     packages that have been developed to facilitate the systematic evaluation of Earth System Models (ESMs).
-    Currently, CMEC includes three capabilities that are supported by 
+    CMEC includes capabilities that are supported by 
     <a href="https://www.energy.gov/">the U.S. Department of Energy</a>, 
-    <a href="https://www.energy.gov/science/ber">Office of Biological and Environmental Research (BER)</a>, 
+    <a href="https://www.energy.gov/science/ber">Office of Biological and Environmental Research (BER)</a>, and 
     <a href="https://climatemodeling.science.energy.gov/program/regional-global-model-analysis">Regional 
-    and Global Climate Modeling Program (RGCM)</a>. As
-    CMEC advances, additional analysis packages will be included from community-based expert teams as well
-    a efforts directly supported by DOE and other US and international agencies.
+    and Global Model Analysis (RGMA)</a>, along with capabilities contributed
+    by community-based experts and international agencies.
     </p>
     <div id="infographic-container" class="col-sm-12 col-md-12 col-lg-7">
     <img src="{{site.baseurl}}/assets/images/171120_CMECInfoGraphic_500x503px_72dpi.png">
@@ -54,21 +53,17 @@ title: CMEC
     </div>
 </div>
 
-A primary motivation for CMEC is to analyze model simulations that are contributed to the
-<a href="https://www.wcrp-climate.org/wgcm-cmip">Coupled Model Intercomparison Project (CMIP)</a>. Virtually every institution worldwide involved in significant development of ESMs contributes simulations to CMIP.
-<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">The 6th and latest phase</a> (<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6">CMIP6</a>;
-<a href="https://dx.doi.org/10.1002/2014EO090001">Meehl et al., 2014</a>;
-<a href="https://dx.doi.org/10.5194/gmd-9-1937-2016">Eyring et al., 2016</a>) includes a partial but fundamental
-shift away from distinct CMIP phases with the advent of an ongoing core of benchmarking experiments known as the
-CMIP DECK (Diagnosis, Evaluation, Characterization of Klima – Klima being the German word for climate). The DECK
-includes a short list of experimental configurations that are routinely performed by ESM developers during their
-model development process. The DECK and “Historical” simulations provide a basis from which ESMs can be compared
-with available observations.
+CMEC is motivated by the need for comprehensive and holistic evaluation of Earth system models and datasets, so as to identify persistent biases and improve data credibility. 
+With widespread and rapid growth in the number of available metrics and diagnostic tools, a lack of standards within the evaluation community have meant that running even a single evaluation tool can require extensive user intervention. 
+Given the significant commonality in how these evaluation tools operate, interoperability is a natural goal achievable through robust and light-weight standards.
 
-To date, many ad hoc analysis packages have been developed to target selected aspects of ESM simulations. With
-the growing scope of CMIP and expectations for efficient “quick look” results, there is a clear need for the
-community of CMIP analysts to work together. CMEC is establishing a framework for the developers of these
-capabilities to collaborate and to deliver a unified set of results.
+The three goals of the CMEC project include: (1) to develop robust and light-weight standards for operation of evaluation packages and their output; (2) to develop accompanying tools for installation of evaluation packages, coordinated execution of evaluation packages, and obtaining data products necessary for operation of these tools; and (3) to build connections across groups, centers, and individual investigators performing model evaluation.
+
+CMEC aims to operate on a variety of Earth system data products including but not limited to: Earth system model data such as contributions to the Coupled Model Intercomparison Project (CMIP), reanalysis data products, and other data products produced by global modeling centers or individual research groups. 
+
+To advance this effort, participation is sought from new and existing ESM evaluation packages. 
+Inclusion is not limited to packages for CMIP analysis, and both metrics
+and diagnostics packages are welcome.
 
 <div class="popover-content">
     <div id="pmp-popover-content">
