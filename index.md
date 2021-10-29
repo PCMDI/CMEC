@@ -53,7 +53,9 @@ title: CMEC
     </div>
 </div>
 
-CMEC is motivated by the need for comprehensive and holistic evaluation of Earth system models and datasets, so as to identify persistent biases and improve data credibility. With widespread and rapid growth in the number of available metrics and diagnostic tools, a lack of standards within the evaluation community have meant that running even a single evaluation tool can require extensive user intervention. Given the significant commonality in how these evaluation tools operate, interoperability is a natural goal achievable through robust and light-weight standards.
+CMEC is motivated by the need for comprehensive and holistic evaluation of Earth system models and datasets, so as to identify persistent biases and improve data credibility. 
+With widespread and rapid growth in the number of available metrics and diagnostic tools, a lack of standards within the evaluation community have meant that running even a single evaluation tool can require extensive user intervention. 
+Given the significant commonality in how these evaluation tools operate, interoperability is a natural goal achievable through robust and light-weight standards.
 
 The three goals of the CMEC project include: (1) to develop robust and light-weight standards for operation of evaluation packages and their output; (2) to develop accompanying tools for installation of evaluation packages, coordinated execution of evaluation packages, and obtaining data products necessary for operation of these tools; and (3) to build connections across groups, centers, and individual investigators performing model evaluation.
 
