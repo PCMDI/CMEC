@@ -41,8 +41,9 @@ the context of all previous generations of AMIP and CMIP.
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
 </center>
 <br>
-<strong>Sub-modules</strong>:
+<strong>Metrics include</strong>:
 ENSO, Mean Climate, MJO metrics, Extra-tropical modes of variability, Monsoon metrics(Sperber and Wang), Precipitation variability, Sub-daily precipitation
+<br>
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
 <a href="https://pcmdi.github.io/pcmdi_metrics/install.html">Installation</a>, and
@@ -75,6 +76,8 @@ rapidly understand the underlying drivers of those responses.
 <a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a>
 </center>
 <br>
+<strong>Metrics include</strong> Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Radiation and Energy Cycle, Forcings, Relationships
+<br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
@@ -105,6 +108,8 @@ rapidly understand the underlying drivers of those responses.
 </center>
 <p>IOMB uses the same code base as ILAMB (described above). The links below
 refer to ILAMB instead of IOMB.</p>
+<br>
+<strong>Metrics include</strong> Chemical Oceanography, Physical Oceanography, SeaAirFluxes
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
