@@ -41,9 +41,11 @@ the context of all previous generations of AMIP and CMIP.
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
 </center>
 <br>
+<strong>Sub-modules</strong>:
+ENSO, Mean Climate, MJO metrics, Extra-tropical modes of variability, Monsoon metrics(Sperber and Wang), Precipitation variability, Sub-daily precipitation
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
-<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>, and
+<a href="https://pcmdi.github.io/pcmdi_metrics/install.html">Installation</a>, and
 <a href="results/physical.html">Results</a>
 </div>
 
@@ -74,7 +76,7 @@ rapidly understand the underlying drivers of those responses.
 </center>
 <br>
 <strong>Quick links</strong>:&nbsp;
-<a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
+<a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
 </div>
@@ -105,28 +107,9 @@ rapidly understand the underlying drivers of those responses.
 refer to ILAMB instead of IOMB.</p>
 <br>
 <strong>Quick links</strong>:&nbsp;
-<a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
+<a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
-</div>
-
-******
-
-<!-- TECA -->
-<div class="span4 box">
-<h3>
-<a class="reference internal" href="teca.html">The Toolkit for Extremes
-Climate Analysis (TECA)</a>
-</h3>
-<p>
-TECA is a general purpose tool for detecting discrete events in climate model
-output.
-</p>
-<img src="">
-<strong>Quick links</strong>:&nbsp;
-<a href="https://github.com/LBL-EESA/TECA">Repository</a>,
-<a href="https://github.com/LBL-EESA/TECA_superbuild">Installation</a>,
-<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>
 </div>
 
 ******
@@ -141,4 +124,5 @@ Community contributed packages
 <a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
 <br>
 <a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
+<a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>
 
