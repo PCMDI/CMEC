@@ -42,7 +42,7 @@ the context of all previous generations of AMIP and CMIP.
 </center>
 <br>
 <strong>Metrics include</strong>:
-ENSO, Mean Climate, MJO metrics, Extra-tropical modes of variability, Monsoon metrics(Sperber and Wang), Precipitation variability, Sub-daily precipitation
+ENSO, Mean Climate, MJO metrics, Extra-tropical modes of variability, Monsoon metrics (Sperber and Wang), Precipitation variability, Sub-daily precipitation
 <br>
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
@@ -76,7 +76,7 @@ rapidly understand the underlying drivers of those responses.
 <a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a>
 </center>
 <br>
-<strong>Metrics include</strong> Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Radiation and Energy Cycle, Forcings, Relationships
+<strong>Metrics include</strong>: Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, Relationships
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
@@ -109,7 +109,7 @@ rapidly understand the underlying drivers of those responses.
 <p>IOMB uses the same code base as ILAMB (described above). The links below
 refer to ILAMB instead of IOMB.</p>
 <br>
-<strong>Metrics include</strong> Chemical Oceanography, Physical Oceanography, SeaAirFluxes
+<strong>Metrics include</strong>: Chemical Oceanography, Physical Oceanography, SeaAirFluxes
 <br>
 <strong>Quick links</strong>:&nbsp;
 <a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
@@ -124,10 +124,11 @@ refer to ILAMB instead of IOMB.</p>
 <h3>
 Community contributed packages
 </h3>
-<a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
+<a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a> Metrics: Spectral and Coherence analysis of precipitation intensity
 <br>
-<a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
+<a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a> Metrics: Tropical cyclone metrics
 <br>
-<a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
+<a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a> Metrics: Monthly mean precipitation, Seasonality, Fractional area of drought, Proportion of dry months, Intesity, Probability of drought initiation, Probability of drought termination, Overal score
+<br>
 <a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>
 
