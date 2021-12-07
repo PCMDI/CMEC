@@ -124,11 +124,15 @@ refer to ILAMB instead of IOMB.</p>
 <h3>
 Community contributed packages
 </h3>
-<a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>: Spectral and Coherence analysis of precipitation intensity over one or more regions.
-<br>
-<a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>: Spatial and temporal metrics for tropical cyclone trajectories. Provides figures to compare seasonal and interannual values of storm characteristics along with maps showing density, bias, and other measures.
-<br>
-<a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>: Metrics to characterize seasonal and mean precipitation along with drought initiation, termination, intensity, and converage.
-<br>
-<a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>: Extreme event detection.
+<a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
+<br>Spectral and Coherence analysis of precipitation intensity over one or more regions.
+<br><br>
+<a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
+<br>Spatial and temporal metrics for tropical cyclone trajectories. Provides figures to compare seasonal and interannual values of storm characteristics along with maps showing density, bias, and other measures.
+<br><br>
+<a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
+<br>Metrics to characterize seasonal and mean precipitation along with drought initiation, termination, intensity, and converage.
+<br><br>
+<a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>
+<br>Extreme event detection.
 
