@@ -125,13 +125,13 @@ refer to ILAMB instead of IOMB.</p>
 Community contributed packages
 </h3>
 <a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
-<br>The ASoP package offers two workflows: one that characterizes the spectrum of precipitation intensity (ASoP Spectral), and another that measures spatial and temporal coherence of precipitation (ASoP Coherence). It can operate on a variety of temporal and spatial scales for both climate models and observations. <a href="https://gmd.copernicus.org/articles/10/57/2017/">Link to reference.<\a>
+<br>The ASoP package offers two workflows: one that characterizes the spectrum of precipitation intensity (ASoP Spectral), and another that measures spatial and temporal coherence of precipitation (ASoP Coherence). It can operate on a variety of temporal and spatial scales for both climate models and observations. <a href="https://gmd.copernicus.org/articles/10/57/2017/">Link to reference.</a>
 <br><br>
 <a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
-<br>CyMeP offers a suite of metrics for analyzing tropical cyclone trajectories on global or regional scales. This package includes a "scorecard" presentation for easy metrics comparisons along with maps of spatial quantities like storm genesis and track bias. <a href="https://doi.org/10.1175/JAMC-D-20-0149.1">Link to reference.<\a>
+<br>CyMeP offers a suite of metrics for analyzing tropical cyclone trajectories on global or regional scales. This package includes a "scorecard" presentation for easy metrics comparisons along with maps of spatial quantities like storm genesis and track bias. <a href="https://doi.org/10.1175/JAMC-D-20-0149.1">Link to reference.</a>
 <br><br>
 <a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
-<br>The Drought Metrics package includes a complete suite of metrics for characterizing drought among multiple regions. It uses principle feature analysis to narrow down a subset of the most important metrics that characterize drought in an area. <a href="https://doi.org/10.1175/JHM-D-20-0314.1">Link to reference.<\a>
+<br>The Drought Metrics package includes a complete suite of metrics for characterizing regional drought. It also narrows down a subset of the most important metrics that characterize drought in that area. <a href="https://doi.org/10.1175/JHM-D-20-0314.1">Link to reference.</a>
 <br><br>
 <a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>
 <br>TECA specializes in extreme event detection for phenomena such as tropical cyclones, extra-tropical cyclones, and atmospheric rivers. <a href="https://doi.org/10.1016/j.procs.2012.04.093">Link to reference.</a>
