@@ -42,7 +42,7 @@ the context of all previous generations of AMIP and CMIP.
 </center>
 <br>
 <strong>Metrics include</strong>:
-ENSO, Mean Climate, MJO metrics, Extra-tropical modes of variability, Monsoon metrics (Sperber and Wang), Precipitation variability, Sub-daily precipitation
+El Niño-Southern Oscillation (ENSO), Mean Climate, Madden-Julian Oscillation (MJO) metrics, Extra-tropical modes of variability, Monsoon metrics (Sperber and Wang), Precipitation variability, Sub-daily precipitation
 <br>
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
