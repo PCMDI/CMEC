@@ -24,9 +24,9 @@ Spectral: histogram overlap metric, 1d histograms of precipitation, Maps of actu
   </tr>
   <tr>
     <td>Cyclone Metrics Package (CyMeP)</td>
-    <td> Storm characteristics: tropical cyclone days, storm genesis, storm intensity (minimum sea level pressure, maximum 10-meter wind speed, accumulated cyclone energy,  pressure accumulated cyclone energy), latitude of lifetime-maximum intensity
-    Statistics: mean, bias, Pearson product-moment coefficient of linear correlation, Spearman rank correlation, hit rate, false alarm ratio
-    Figures: Scorecards, Spatial density maps, taylor diagrams, interannual cycle line plots, seasonal cycle line plots</td>
+    <td>Storm characteristics: tropical cyclone days, storm genesis, storm intensity (minimum sea level pressure, maximum 10-meter wind speed, accumulated cyclone energy,  pressure accumulated cyclone energy), latitude of lifetime-maximum intensity
+    <br>Statistics: mean, bias, Pearson product-moment coefficient of linear correlation, Spearman rank correlation, hit rate, false alarm ratio
+    <br>Figures: Scorecards, Spatial density maps, taylor diagrams, interannual cycle line plots, seasonal cycle line plots</td>
     <td><a href="https://github.com/zarzycki/cymep">CyMeP repository</a></td>
     <td><a href="https://github.com/zarzycki/cymep#cymep-cyclone-metrics-package">CyMeP README</a></td>
   </tr>
@@ -39,16 +39,16 @@ Spectral: histogram overlap metric, 1d histograms of precipitation, Maps of actu
   <tr>
     <td>International Land Model Benchmarking (ILAMB)</td>
     <td>Diagnostics figures: contour maps, time series plots, Taylor Diagrams
-    Metrics: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
-    Metrics categories: Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, and Relationships (Gross Primary Productivity, Leaf area index, and Evapotranspiration).</td>
+    <br>Metrics: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <br>Metrics categories: Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, and Relationships (Gross Primary Productivity, Leaf area index, and Evapotranspiration).</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">ILAMB repository</a></td>
     <td><a href="https://www.ilamb.org/doc/">ILAMB documentation</a></td>
   </tr>
   <tr>
     <td>International Ocean Model Benchmarking (IOMB)</td>
     <td>Diagnostics figures: contour maps, time series plots, Taylor Diagrams
-    Metrics: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
-    Metrics categories: Ecosystems, Nutrients, Carbon, Physical Drivers, and Relationships.</td>
+    <br>Metrics: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <br>Metrics categories: Ecosystems, Nutrients, Carbon, Physical Drivers, and Relationships.</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">IOMB repository</a> (shared with ILAMB)</td>
     <td><a href="https://www.ilamb.org/doc/">IOMB documentation</a> (shared with ILAMB)</td>
   </tr>
@@ -61,15 +61,15 @@ Spectral: histogram overlap metric, 1d histograms of precipitation, Maps of actu
   <tr>
     <td>PCMDI Metrics Package (PMP)</td>
     <td>Mean Climate: bias_xy, cor_xy, mae_xy, mean-obs_xy, mean_xy, rms_devzm, rms_xy, rms_xyt, rms_y, rmsc_xy, std-obs_xy, std-obs_xyt, std_xy, std_xy_devzm, std_xyt
-    Monsoon (Wang): correlation, rmsn, threat score
-    Monsoon (Sperber): decay index, duration, onset index, slope
-    Diurnal Cycle: harmonic 1, 2, and 3: amp_avg_lnd, pha_avg_lnd, amp_avg_ocn, pha_avg_ocn
-    Modes of Variability: bias, bias_glo, cor, cor_glo, frac, frac_cbf_regrid, mean, mean_glo, rms, rms_glo, rmsc, rmsc_glo, stdv_pc, std_pc_ratio_to_obs, tcor_cbf_vs_eof_pc
-    MJO metrics: east power, west power, East-west power ratio
-    ENSO_perf: BiasPrLatRmse, BiasPrLonRmse, BiasSSTLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoDuration, EnsoSeasonality, EnsoSstDiversity_2, EnsoSSTLonRmse, EnsoSstSkew, EnsoSstTsRmse, SeasonalPrLatRmse, SeasonalPrLonRmse, SeasonalSstLonRmse, SeasonalTauxLonRmse
-    ENSO_tel: EnsoAmpl, EnsoPrMapDjfCorr, EnsoPrMapDjfRmse, EnsoPrMapDjfStd, EnsoPrMapJjaCorr, EnsoPrMapJjaRmse, EnsoPrMapJjaStd, EnsoSeasonality, EnsoSstLonRmse, EnsoSstMapDjfCorr, EnsoSstMapDjfRmse, EnsoSstMapDjfStd, EnsoSstMapJjaCorr, EnsoSstMapJjaRmse, EnsoSstMapJjaStd
-    ENSO_proc: BiasSstLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoFbSstTaux, EnsoFbSstThf, EnsoSeasonality, EnsoSstLonRmse, EnsoSstSkew, EnsodSstOce_2
-    Precipitation variability: Forced annual, forced semi-annual, unforced interannual, unforced seasonal-annual, unforced sub-seasonal, unforced synoptic</td>
+    <br><b>Monsoon (Wang)</b>: correlation, rmsn, threat score
+    <br><b>Monsoon (Sperber)</b>: decay index, duration, onset index, slope
+    <br><b>Diurnal Cycle</b>: harmonic 1, 2, and 3: amp_avg_lnd, pha_avg_lnd, amp_avg_ocn, pha_avg_ocn
+    <br><b>Modes of Variability</b>: bias, bias_glo, cor, cor_glo, frac, frac_cbf_regrid, mean, mean_glo, rms, rms_glo, rmsc, rmsc_glo, stdv_pc, std_pc_ratio_to_obs, tcor_cbf_vs_eof_pc
+    <br><b>MJO metrics</b>: east power, west power, East-west power ratio
+    <br><b>ENSO_perf</b>: BiasPrLatRmse, BiasPrLonRmse, BiasSSTLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoDuration, EnsoSeasonality, EnsoSstDiversity_2, EnsoSSTLonRmse, EnsoSstSkew, EnsoSstTsRmse, SeasonalPrLatRmse, SeasonalPrLonRmse, SeasonalSstLonRmse, SeasonalTauxLonRmse
+    <br><b>ENSO_tel</b>: EnsoAmpl, EnsoPrMapDjfCorr, EnsoPrMapDjfRmse, EnsoPrMapDjfStd, EnsoPrMapJjaCorr, EnsoPrMapJjaRmse, EnsoPrMapJjaStd, EnsoSeasonality, EnsoSstLonRmse, EnsoSstMapDjfCorr, EnsoSstMapDjfRmse, EnsoSstMapDjfStd, EnsoSstMapJjaCorr, EnsoSstMapJjaRmse, EnsoSstMapJjaStd
+    <br><b>ENSO_proc</b>: BiasSstLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoFbSstTaux, EnsoFbSstThf, EnsoSeasonality, EnsoSstLonRmse, EnsoSstSkew, EnsodSstOce_2
+    <br><b>Precipitation variability</b>: Forced annual, forced semi-annual, unforced interannual, unforced seasonal-annual, unforced sub-seasonal, unforced synoptic</td>
     <td><a href="https://github.com/PCMDI/pcmdi_metrics">PCMDI metrics repository</a></td>
     <td><a href="https://pcmdi.github.io/pcmdi_metrics/">PCMDI Metrics documentation</a></td>
 </tr>
