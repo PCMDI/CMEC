@@ -1,13 +1,13 @@
- --
- layout: default
- title: Metrics
- --
+---
+layout: default
+title: Metrics
+---
  
- ## Metrics Table
+## Metrics Table
  
- This table describes the metrics available in CMEC packages
+This table describes the metrics available in CMEC packages
  
- <table>
+<table>
   <tr>
     <th>Package</th>
     <th>Metrics</th>
