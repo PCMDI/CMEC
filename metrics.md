@@ -16,9 +16,8 @@ This table describes the metrics available in CMEC packages
   </tr>
   <tr>
     <td>Analyzing Scales of Precipitation (ASoP)</td>
-    <td>Coherence: Temporal intermittency, Spatial intermittency
-  Coherence figures: correlations of precipitation in space and time over regional blocks.
-Spectral: histogram overlap metric, 1d histograms of precipitation, Maps of actual and fractional contribution to precipitation rate by intensity range</td>
+    <td><b>Coherence</b>: Temporal intermittency metrics, spatial intermittency metrics, plots of correlations of precipitation in space and time over regional blocks.
+    <br><b>Spectral</b>: Histogram overlap metric, plots of 1d histograms of precipitation, maps of actual and fractional contribution to precipitation rate by intensity range</td>
     <td><a href="https://github.com/nick-klingaman/ASoP">Github repository</a></td>
     <td><a href="https://github.com/nick-klingaman/ASoP/blob/master/ASoP_guide.pdf">User Guide</a></td>
   </tr>
@@ -60,15 +59,15 @@ Spectral: histogram overlap metric, 1d histograms of precipitation, Maps of actu
   </tr>
   <tr>
     <td>PCMDI Metrics Package (PMP)</td>
-    <td>Mean Climate: bias_xy, cor_xy, mae_xy, mean-obs_xy, mean_xy, rms_devzm, rms_xy, rms_xyt, rms_y, rmsc_xy, std-obs_xy, std-obs_xyt, std_xy, std_xy_devzm, std_xyt
-    <br><b>Monsoon (Wang)</b>: correlation, rmsn, threat score
-    <br><b>Monsoon (Sperber)</b>: decay index, duration, onset index, slope
-    <br><b>Diurnal Cycle</b>: harmonic 1, 2, and 3: amp_avg_lnd, pha_avg_lnd, amp_avg_ocn, pha_avg_ocn
-    <br><b>Modes of Variability</b>: bias, bias_glo, cor, cor_glo, frac, frac_cbf_regrid, mean, mean_glo, rms, rms_glo, rmsc, rmsc_glo, stdv_pc, std_pc_ratio_to_obs, tcor_cbf_vs_eof_pc
-    <br><b>MJO metrics</b>: east power, west power, East-west power ratio
-    <br><b>ENSO_perf</b>: BiasPrLatRmse, BiasPrLonRmse, BiasSSTLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoDuration, EnsoSeasonality, EnsoSstDiversity_2, EnsoSSTLonRmse, EnsoSstSkew, EnsoSstTsRmse, SeasonalPrLatRmse, SeasonalPrLonRmse, SeasonalSstLonRmse, SeasonalTauxLonRmse
-    <br><b>ENSO_tel</b>: EnsoAmpl, EnsoPrMapDjfCorr, EnsoPrMapDjfRmse, EnsoPrMapDjfStd, EnsoPrMapJjaCorr, EnsoPrMapJjaRmse, EnsoPrMapJjaStd, EnsoSeasonality, EnsoSstLonRmse, EnsoSstMapDjfCorr, EnsoSstMapDjfRmse, EnsoSstMapDjfStd, EnsoSstMapJjaCorr, EnsoSstMapJjaRmse, EnsoSstMapJjaStd
-    <br><b>ENSO_proc</b>: BiasSstLonRmse, BiasTauxLonRmse, EnsoAmpl, EnsoFbSstTaux, EnsoFbSstThf, EnsoSeasonality, EnsoSstLonRmse, EnsoSstSkew, EnsodSstOce_2
+    <td><b>Mean Climate</b>: Statistics that characterize atmospheric variables and compare models with observations, including bias, mean, correlation, root mean square error, and standard deviation.
+    <br><b>Monsoon (Wang)</b>: Correlation, rmsn, threat score for defined regions (North America, South America, North Africa, South Africa, Asia, Australia, and "all" monsoon domains).
+    <br><b>Monsoon (Sperber)</b>: Decay index, duration, onset index, slope for defined regions (All-India, Northern Australia, Sahel, Gulf of Guinea, North America, South America).
+    <br><b>Diurnal Cycle</b>: Daily mean precipitation, standard deviation of mean diurnal cycle, standard deviation of hourly means, standard deviation of daily means, Fourier harmonics (amplitude and phase) 
+    <br><b>Modes of Variability</b>: Statistics for the Northern Annular Mode, Northern Atlantic Oscillation, Sourthern Annular Mode, Pacific North American Pattern, Pacific Decadal Oscillation. 
+    <br><b>Madden-Julian Oscillation metrics</b>: East power, West power, East-west power ratio
+    <br><b>El Niño–Southern Oscillation (ENSO) performance</b>: Cold tongue bias, trade wind bias, dry equator bias, double intertropical convergence zone bias, seasonalities of biases, ENSO amplitude, ENSO life cycle, ENSO asymmetry, ENSO diversity
+    <br><b>El Niño–Southern Oscillation teleconnections</b>: ENSO amplitude, ENSO pattern, ENSO seasonality, DJF precipitation teleconnection, DJF surface temperature teleconnection, JJA precipitation teleconnection, JJA surface temperature teleconnection
+    <br><b>El Niño–Southern Oscillation processes</b>: Cold tongue bias, trade winds bias, ENSO pattern, ENSO amplitude, ENSO seasonality, ENSO asymmetry, ocean-atmosphere Bjerknes feedback (atmosphere branch, ocean-atmosphere branch, and ocean branch), balance of Bjerknes feedback and heat fluxes on sea surface temperature anomalies
     <br><b>Precipitation variability</b>: Forced annual, forced semi-annual, unforced interannual, unforced seasonal-annual, unforced sub-seasonal, unforced synoptic</td>
     <td><a href="https://github.com/PCMDI/pcmdi_metrics">Github repository</a></td>
     <td><a href="https://pcmdi.github.io/pcmdi_metrics/">Documentation website</a></td>
