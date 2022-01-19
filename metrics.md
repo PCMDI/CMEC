@@ -23,31 +23,32 @@ This table describes the metrics available in CMEC packages
   </tr>
   <tr>
     <td>Cyclone Metrics Package (CyMeP)</td>
-    <td><b>Storm characteristics</b>: tropical cyclone days, storm genesis, storm intensity (minimum sea level pressure, maximum 10-meter wind speed, accumulated cyclone energy,  pressure accumulated cyclone energy), latitude of lifetime-maximum intensity
-    <br><b>Statistics</b>: mean, bias, Pearson product-moment coefficient of linear correlation, Spearman rank correlation, hit rate, false alarm ratio
+    <td><b>Statistics</b>: mean, bias, Pearson product-moment coefficient of linear correlation, Spearman rank correlation, hit rate, false alarm ratio
+    <br>Statistics measure the following storm characteristics: tropical cyclone days, storm genesis, storm intensity (minimum sea level pressure, maximum 10-meter wind speed, accumulated cyclone energy,  pressure accumulated cyclone energy), latitude of lifetime-maximum intensity
     <br><b>Figures</b>: Scorecards, Spatial density maps, taylor diagrams, interannual cycle line plots, seasonal cycle line plots</td>
     <td><a href="https://github.com/zarzycki/cymep">Github repository</a></td>
     <td><a href="https://github.com/zarzycki/cymep#cymep-cyclone-metrics-package">CyMeP README</a></td>
   </tr>
   <tr>
     <td>Drought Metrics</td>
-    <td>Mean precipitation, mean SPI6, Mean SPI36, Seasonality of  Precipitation, Long term monthly mean, Fractional area coverage of drought, Proportion of dry months, Count of dry months, Drought intensity, Probability of drought initiation, probability of drought termination, overall score</td>
+    <td><b>Metrics</b>: Mean precipitation, mean SPI6, Mean SPI36, Seasonality of  Precipitation, Long term monthly mean, Fractional area coverage of drought, Proportion of dry months, Count of dry months, Drought intensity, Probability of drought initiation, Probability of drought termination, Overall score
+    <br><b>Figures</b>: Taylor diagram, heatmap</td>
     <td><a href="https://github.com/cmecmetrics/Drought_Metrics">Github repository</a></td>
     <td><a href="https://github.com/cmecmetrics/Drought_Metrics#drought_metrics">Drought Metrics README</a></td>
   </tr>
   <tr>
     <td>International Land Model Benchmarking (ILAMB)</td>
-    <td><b>Diagnostics figures</b>: contour maps, time series plots, Taylor Diagrams
-    <br><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
-    <br>Metrics categories include Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, and Relationships (Gross Primary Productivity, Leaf area index, and Evapotranspiration).</td>
+    <td><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <br>Metrics categories include Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, and Relationships (Gross Primary Productivity, Leaf area index, and Evapotranspiration).
+    <br><b>Figures</b>: contour maps, time series plots, Taylor Diagrams</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">Github repository</a></td>
     <td><a href="https://www.ilamb.org/doc/">Documentation website</a></td>
   </tr>
   <tr>
     <td>International Ocean Model Benchmarking (IOMB)</td>
-    <td><b>Diagnostics figures</b>: contour maps, time series plots, Taylor Diagrams
-    <br><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
-    <br>Metrics categories include Ecosystems, Nutrients, Carbon, Physical Drivers, and Relationships.</td>
+    <td><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <br>Metrics categories include Ecosystems, Nutrients, Carbon, Physical Drivers, and Relationships.
+    <br><b>Figures</b>: contour maps, time series plots, Taylor Diagrams</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">Github repository</a> (shared with ILAMB)</td>
     <td><a href="https://www.ilamb.org/doc/">Documentation website</a> (shared with ILAMB)</td>
   </tr>
