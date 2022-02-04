@@ -15,8 +15,8 @@ Mean state results from the PCMDI Metrics Package (PMP) are used to produce "qui
 <br/>
 - Interactive Parallel Coordinate Plots (IPCPs) are used to dynamically visualize the mean climate statistics generated with the PMP. In an IPCP, each vertical axis represents a different scalar measure gauging some aspect of model fidelity. The results displayed in the IPCP are <b>absolute error measures</b>, i.e., they are not normalized as in the portrait plots (below).  Under the default configuration, results from each model are displayed as symbols. <b><i>To facilitate comparison of a subset of models, the user can highlight individual models by selecting a symbol on the plot or from the legend. A common application is to select two versions of the same (or different) model to enable their performance differences to be contrasted against the backdrop of results from the multi-model ensemble (symbols).</i></b>  The current release allows the user to display CMIP5 and CMIP6 results as for different statistics and regions.
 
-  - [**CMIP6 historical simulations**][parallel_cmip6] (updated 8 Oct 2020)
-  - [**CMIP5 historical simulations**][parallel_cmip5] (updated 8 Oct 2020)
+  - [**CMIP6 historical simulations**][parallel_cmip6]
+  - [**CMIP5 historical simulations**][parallel_cmip5]
 
 <br/>
 
@@ -25,12 +25,12 @@ Mean state results from the PCMDI Metrics Package (PMP) are used to produce "qui
 <br/>
 - Interactive Portrait Plots (IPP) show results that are normalized by the median RMS error across all models (rows), as described in [Gleckler et al. (2008)][gleckler2008].  This normalization enables a common color scale to be used for all statistics and highlights the <b>relative strengths and weakness of different models</b>.  With this normalization an error of -0.5 indicates a model’s error is 50% smaller than the typical (median) error across all models, whereas an error of 0.5 is an error 50% larger than the typical error in the multi-model ensemble.   <b><i>This diagram can be used to navigate to additional results.  Hovering your mouse over a square or triangle will reveal the diagnostic plot from which the metrics were generated.  Additionally, hovering over the variables on the x-axis displays a [Taylor diagram][taylor2001]</i></b>.   After hovering on either type of plot, the user can click a second time to get a full sized image.
 
-  - [**CMIP6 historical simulations**][portrait_cmip6_hist] (updated 8 Oct 2020)
-  - [**CMIP5 historical simulations**][portrait_cmip5_hist] (updated 6 May 2020)
-  - [**CMIP6 AMIP simulations**][portrait_cmip6_amip] (updated 6 May 2020)
-  - [**CMIP5 AMIP simulations**][portrait_cmip5_amip] (updated 6 May 2020)
+  - [**CMIP6 historical simulations**][portrait_cmip6_hist]
+  - [**CMIP5 historical simulations**][portrait_cmip5_hist]
+  - [**CMIP6 AMIP simulations**][portrait_cmip6_amip]
+  - [**CMIP5 AMIP simulations**][portrait_cmip5_amip]
 
-  - **Additional decompositions for CMIP6 Historical** (updated 8 Oct 2020)
+  - **Additional decompositions for CMIP6 Historical**
     - [Global space-time (Gleckler et al. 2008): rms_xyt][portrait_cmip6_hist_global_rms_xyt]
     - [Global annual mean: rms_xy][portrait_cmip6_hist_global_rms_xy]
     - [Northern Hemisphere Extratropics 4 Seasons (NHEX): rms_xy][portrait_cmip6_hist_nhex_rms_xy]
