@@ -5,7 +5,7 @@ title: Capabilities
 
 ## Capabilities Overview
 
-The capabilities currently contributing to CMEC are briefly highlighted below. For a full list of all the metrics available in each package, see the <a href="metrics.html">Metrics table</a>.
+The capabilities currently contributing to CMEC are briefly highlighted below. For a full list of all the metrics available in each package, see the <a href="metrics.html">Model Evaluation Packages table</a>.
 
 ******
 <!-- CMEC driver -->
