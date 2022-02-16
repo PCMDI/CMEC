@@ -3,60 +3,60 @@ layout: default
 title: Metrics
 ---
  
-## Metrics Table
+## Model Evaluation Packages
  
-This table describes the metrics available in CMEC packages
+This table describes the metrics and diagnostics available in CMEC packages
  
 <table>
   <tr>
     <th>Package</th>
-    <th>Metrics</th>
+    <th>Contents</th>
     <th>Source</th>
     <th>Documentation</th>
   </tr>
   <tr>
     <td>Analyzing Scales of Precipitation (ASoP)</td>
     <td><b>Coherence</b>: Temporal intermittency metrics, spatial intermittency metrics, plots of correlations of precipitation in space and time over regional blocks.
-    <br><b>Spectral</b>: Histogram overlap metric, plots of 1d histograms of precipitation, maps of actual and fractional contribution to precipitation rate by intensity range</td>
+    <br><b>Spectral</b>: Histogram overlap metric, file (for each dataset) containing 100-bin distribution of counts over the time period for each gridpoint, plots of 1d histograms of precipitation, maps of actual and fractional contribution to precipitation rate by intensity range</td>
     <td><a href="https://github.com/nick-klingaman/ASoP">Github repository</a></td>
     <td><a href="https://github.com/nick-klingaman/ASoP/blob/master/ASoP_guide.pdf">User Guide</a></td>
   </tr>
   <tr>
     <td>Cyclone Metrics Package (CyMeP)</td>
-    <td><b>Statistics</b>: mean, bias, Pearson product-moment coefficient of linear correlation, Spearman rank correlation, hit rate, false alarm ratio
+    <td><b>Statistics</b>: mean, bias, Pearson correlation, Spearman correlation, hit rate, false alarm ratio
     <br>Statistics measure the following storm characteristics: tropical cyclone days, storm genesis, storm intensity (minimum sea level pressure, maximum 10-meter wind speed, accumulated cyclone energy,  pressure accumulated cyclone energy), latitude of lifetime-maximum intensity
-    <br><b>Figures</b>: Scorecards, Spatial density maps, taylor diagrams, interannual cycle line plots, seasonal cycle line plots</td>
+    <br><b>Figures</b>: Scorecards, cyclone trajectories, spatial density maps, Taylor diagrams, interannual cycle line plots, seasonal cycle line plots</td>
     <td><a href="https://github.com/zarzycki/cymep">Github repository</a></td>
     <td><a href="https://github.com/zarzycki/cymep#cymep-cyclone-metrics-package">CyMeP README</a></td>
   </tr>
   <tr>
     <td>Drought Metrics</td>
-    <td><b>Metrics</b>: Mean precipitation, mean SPI6, Mean SPI36, Seasonality of  Precipitation, Long term monthly mean, Fractional area coverage of drought, Proportion of dry months, Count of dry months, Drought intensity, Probability of drought initiation, Probability of drought termination, Overall score
-    <br><b>Figures</b>: Taylor diagram, heatmap</td>
+    <td><b>Metrics</b>: Mean precipitation, mean SPI6, mean SPI36, seasonality of  precipitation, long term monthly mean, fractional area coverage of drought, proportion of dry months, count of dry months, drought intensity, probability of drought initiation, probability of drought termination, total score
+    <br><b>Figures</b>: Taylor diagram, heatmap of total scores</td>
     <td><a href="https://github.com/cmecmetrics/Drought_Metrics">Github repository</a></td>
     <td><a href="https://github.com/cmecmetrics/Drought_Metrics#drought_metrics">Drought Metrics README</a></td>
   </tr>
   <tr>
     <td>International Land Model Benchmarking (ILAMB)</td>
-    <td><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <td><b>Metrics</b>: A set of scores for spatial and temporal statistics of a model compared with observations for different quantities. Scores include overall score, bias score, RMSE score, and others.
     <br>Metrics categories include Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, and Relationships (Gross Primary Productivity, Leaf area index, and Evapotranspiration).
-    <br><b>Figures</b>: contour maps, time series plots, Taylor Diagrams</td>
+    <br><b>Figures</b>: contour maps, time series plots, Taylor diagrams</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">Github repository</a></td>
     <td><a href="https://www.ilamb.org/doc/">Documentation website</a></td>
   </tr>
   <tr>
     <td>International Ocean Model Benchmarking (IOMB)</td>
-    <td><b>Metrics</b>: An overall score that accounts for spatial and temporal statistics of a model compared with observations for different quantities.
+    <td><b>Metrics</b>: A set of scores that account for spatial and temporal statistics of a model compared with observations for different quantities. Scores include overall score, bias score, RMSE score, and others.
     <br>Metrics categories include Ecosystems, Nutrients, Carbon, Physical Drivers, and Relationships.
-    <br><b>Figures</b>: contour maps, time series plots, Taylor Diagrams</td>
+    <br><b>Figures</b>: contour maps, time series plots, Taylor diagrams</td>
     <td><a href="https://github.com/rubisco-sfa/ILAMB">Github repository</a> (shared with ILAMB)</td>
     <td><a href="https://www.ilamb.org/doc/">Documentation website</a> (shared with ILAMB)</td>
   </tr>
   <tr>
     <td>Model Diagnostics Task Force (MDTF) Diagnostics</td>
-    <td><b>Process Oriented Diagnostics (PODs)</b>: ENSO_MSE, ENSO_RWS, Extratropical Variance, Madden-Julian Oscillation Propogation and Amplitude, Madden-Julian Oscillation Spectra and Phasing, Madden-Julian Oscillation Teleconnections, Coupling between Soil Moisture and Evapotranspiration, Wavenumber-Frequency Spectra, Convective Transition Diagnostics, Mixed Layer Depth, Ocean Sufrace Latent Heat Flux Diagnostic, Diurnal Cycle of Precipitation, Surface Temperature Extremes and Distribution Shape, Tropical Pacific Sea Level Diagnostic</td>
+    <td><b>Process Oriented Diagnostics (PODs)</b>: ENSO_MSE, ENSO_RWS, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/EOF_500hPa.html">Extratropical Variance</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_prop_amp.html">Madden-Julian Oscillation Propogation and Amplitude</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_suite.html">Madden-Julian Oscillation Spectra and Phasing</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_teleconnection.html">Madden-Julian Oscillation Teleconnections</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/SM_ET_coupling.html">Coupling between Soil Moisture and Evapotranspiration</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/Wheeler_Kiladis.html">Wavenumber-Frequency Spectra</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/convective_transition_diag.html">Convective Transition Diagnostics</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/mixed_layer_depth.html">Mixed Layer Depth</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/ocn_surf_flux_diag.html">Ocean Sufrace Latent Heat Flux Diagnostic</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/precip_diurnal_cycle.html">Diurnal Cycle of Precipitation</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/temp_extremes_distshape.html">Surface Temperature Extremes and Distribution Shape</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/tropical_pacific_sea_level.html">Tropical Pacific Sea Level Diagnostic</a></td>
     <td><a href="https://github.com/NOAA-GFDL/MDTF-diagnostics">Github repository</a></td>
-    <td><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/">Documentation website</a></td>
+    <td><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/">Documentation website</a><br><a href="https://www.gfdl.noaa.gov/mdtf-diagnostics/">Project Website</a></td>
   </tr>
   <tr>
     <td>PCMDI Metrics Package (PMP)</td>
