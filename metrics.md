@@ -54,7 +54,19 @@ This table describes the metrics and diagnostics available in CMEC packages
   </tr>
   <tr>
     <td>Model Diagnostics Task Force (MDTF) Diagnostics</td>
-    <td><b>Process Oriented Diagnostics (PODs)</b>: ENSO_MSE, ENSO_RWS, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/EOF_500hPa.html">Extratropical Variance</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_prop_amp.html">Madden-Julian Oscillation Propogation and Amplitude</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_suite.html">Madden-Julian Oscillation Spectra and Phasing</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_teleconnection.html">Madden-Julian Oscillation Teleconnections</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/SM_ET_coupling.html">Coupling between Soil Moisture and Evapotranspiration</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/Wheeler_Kiladis.html">Wavenumber-Frequency Spectra</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/convective_transition_diag.html">Convective Transition Diagnostics</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/mixed_layer_depth.html">Mixed Layer Depth</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/ocn_surf_flux_diag.html">Ocean Sufrace Latent Heat Flux Diagnostic</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/precip_diurnal_cycle.html">Diurnal Cycle of Precipitation</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/temp_extremes_distshape.html">Surface Temperature Extremes and Distribution Shape</a>, <a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/tropical_pacific_sea_level.html">Tropical Pacific Sea Level Diagnostic</a></td>
+    <td><b>Process Oriented Diagnostics (PODs)</b>:
+    <br>ENSO_MSE
+    <br>ENSO_RWS
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/EOF_500hPa.html">Extratropical Variance</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_prop_amp.html">Madden-Julian Oscillation Propogation and Amplitude</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_suite.html">Madden-Julian Oscillation Spectra and Phasing</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/MJO_teleconnection.html">Madden-Julian Oscillation Teleconnections</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/SM_ET_coupling.html">Coupling between Soil Moisture and Evapotranspiration</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/Wheeler_Kiladis.html">Wavenumber-Frequency Spectra</a><br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/convective_transition_diag.html">Convective Transition Diagnostics</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/mixed_layer_depth.html">Mixed Layer Depth</a><br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/ocn_surf_flux_diag.html">Ocean Sufrace Latent Heat Flux Diagnostic</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/precip_diurnal_cycle.html">Diurnal Cycle of Precipitation</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/temp_extremes_distshape.html">Surface Temperature Extremes and Distribution Shape</a>
+    <br><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/sphinx_pods/tropical_pacific_sea_level.html">Tropical Pacific Sea Level Diagnostic</a></td>
     <td><a href="https://github.com/NOAA-GFDL/MDTF-diagnostics">Github repository</a></td>
     <td><a href="https://mdtf-diagnostics.readthedocs.io/en/latest/">Documentation website</a><br><a href="https://www.gfdl.noaa.gov/mdtf-diagnostics/">Project Website</a></td>
   </tr>
