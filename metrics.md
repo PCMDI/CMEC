@@ -53,7 +53,7 @@ This table describes the metrics and diagnostics available in CMEC packages
     <td><a href="https://www.ilamb.org/doc/">Documentation website</a> (shared with ILAMB)</td>
   </tr>
   <tr>
-    <td>Model Diagnostics Task Force (MDTF) Diagnostics</td>
+    <td>NOAA Model Diagnostics Task Force (MDTF)</td>
     <td><b>Process Oriented Diagnostics (PODs)</b>:
     <br>ENSO_MSE
     <br>ENSO_RWS
