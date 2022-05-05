@@ -17,8 +17,7 @@ The EWR results are based on the work of [Ahn et al. (2017)][ahn2017]. Implement
 
 <br/>
 ### Summary statistics in Interactive Bar Charts
-  - **[EWR for CMIP5 and CMIP6 Historical][ewribc]** (last update: 20 July 2020)
-
+  - **[EWR for CMIP5 and CMIP6 Historical][ewribc]**
 
 <br/>
 ### General Results
