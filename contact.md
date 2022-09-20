@@ -17,8 +17,3 @@ Jiwoo Lee \\
 
 Forrest M. Hoffman \\
 <forrest@climatemodeling.org>
-
-## TECA:
-
-William D. Collins \\
-<wdcollins@lbl.gov>

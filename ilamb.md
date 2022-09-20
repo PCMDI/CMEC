@@ -87,10 +87,10 @@ design philosophy and implementation are described by
 [Collier et al. (2018)](https://doi.org/10.1029/2018MS001354).
 
 <strong>Quick links</strong>:&nbsp;
-<a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
+<a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>,
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>,
-<a href="https://www.ilamb.org/CMIP5/esmHistorical">CMIP5 Results</a>,
+<a href="https://www.ilamb.org/CMIP5/historical/">CMIP5 Results</a>,
 and <a href="https://www.ilamb.org/CLM/">CLM Results</a>
 <br>
 <b>Contact:</b> Forrest M. Hoffman (forrest@climatemodeling.org)

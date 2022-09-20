@@ -5,7 +5,7 @@ title: Capabilities
 
 ## Capabilities Overview
 
-The capabilities currently contributing to CMEC are briefly highlighted below:
+The capabilities currently contributing to CMEC are briefly highlighted below. For a full list of all the metrics available in each package, see the <a href="metrics.html">Model Evaluation Packages table</a>.
 
 ******
 <!-- CMEC driver -->
@@ -41,9 +41,12 @@ the context of all previous generations of AMIP and CMIP.
 <a border="0" href="pmp.html"><img src="{{site.baseurl}}/assets/images/pmp_cover_side_sm.png"></a>
 </center>
 <br>
+<strong>Metrics include</strong>:
+El Niño-Southern Oscillation (ENSO), Mean Climate, Madden-Julian Oscillation (MJO) metrics, Extra-tropical modes of variability, Monsoon metrics (Sperber and Wang), Precipitation variability, Sub-daily precipitation
+<br>
 <strong>Quick links</strong>:
 <a href="https://github.com/PCMDI/pcmdi_metrics">Repository</a>, 
-<a href="https://github.com/PCMDI/pcmdi_metrics/wiki/Install-using-Anaconda">Installation</a>, and
+<a href="https://pcmdi.github.io/pcmdi_metrics/install.html">Installation</a>, and
 <a href="results/physical.html">Results</a>
 </div>
 
@@ -73,8 +76,10 @@ rapidly understand the underlying drivers of those responses.
 <a border="0" href="ilamb.html"><img src="{{site.baseurl}}/assets/images/ilamb_biomass_sm.png"></a>
 </center>
 <br>
+<strong>Metrics include</strong>: Ecosystem and Carbon Cycle, Hydrology Cycle, Radiation and Energy Cycle, Forcings, Relationships
+<br>
 <strong>Quick links</strong>:&nbsp;
-<a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
+<a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
 </div>
@@ -104,29 +109,12 @@ rapidly understand the underlying drivers of those responses.
 <p>IOMB uses the same code base as ILAMB (described above). The links below
 refer to ILAMB instead of IOMB.</p>
 <br>
+<strong>Metrics include</strong>: Chemical Oceanography, Physical Oceanography, SeaAirFluxes
+<br>
 <strong>Quick links</strong>:&nbsp;
-<a href="https://bitbucket.org/ncollier/ilamb">Repository</a>,
+<a href="https://github.com/rubisco-sfa/ILAMB">Repository</a>,
 <a href="https://www.ilamb.org/doc/install.html">Installation</a>, and
 <a href="https://www.ilamb.org/doc/tutorial.html">Tutorials</a>
-</div>
-
-******
-
-<!-- TECA -->
-<div class="span4 box">
-<h3>
-<a class="reference internal" href="teca.html">The Toolkit for Extremes
-Climate Analysis (TECA)</a>
-</h3>
-<p>
-TECA is a general purpose tool for detecting discrete events in climate model
-output.
-</p>
-<img src="">
-<strong>Quick links</strong>:&nbsp;
-<a href="https://github.com/LBL-EESA/TECA">Repository</a>,
-<a href="https://github.com/LBL-EESA/TECA_superbuild">Installation</a>,
-<a href="https://github.com/LBL-EESA/TECA/blob/master/doc/teca_users_guide.pdf">Documentation</a>
 </div>
 
 ******
@@ -137,8 +125,14 @@ output.
 Community contributed packages
 </h3>
 <a href="https://github.com/nick-klingaman/ASoP">Analysing Scales of Precipitation (ASoP)</a>
-<br>
+<br>The ASoP package offers two workflows: one that characterizes the spectrum of precipitation intensity (ASoP Spectral), and another that measures spatial and temporal coherence of precipitation (ASoP Coherence). It can operate on a variety of temporal and spatial scales for both climate models and observations. <a href="https://gmd.copernicus.org/articles/10/57/2017/">Link to reference.</a>
+<br><br>
 <a href="https://github.com/zarzycki/cymep">Cyclone Metrics Package (CyMeP)</a>
-<br>
+<br>CyMeP offers a suite of metrics for analyzing tropical cyclone trajectories on global or regional scales. This package includes a "scorecard" presentation for easy metrics comparisons along with maps of spatial quantities like storm genesis and track bias. <a href="https://doi.org/10.1175/JAMC-D-20-0149.1">Link to reference.</a>
+<br><br>
 <a href="https://github.com/cmecmetrics/Drought_Metrics">Drought Metrics</a>
+<br>The Drought Metrics package includes a complete suite of metrics for characterizing regional drought. It also narrows down a subset of the most important metrics that characterize drought in that area. <a href="https://doi.org/10.1175/JHM-D-20-0314.1">Link to reference.</a>
+<br><br>
+<a href="https://github.com/LBL-EESA/TECA">The Toolkit for Extremes Climate Analysis (TECA)</a>
+<br>TECA specializes in extreme event detection for phenomena such as tropical cyclones, extra-tropical cyclones, and atmospheric rivers. <a href="https://doi.org/10.1016/j.procs.2012.04.093">Link to reference.</a>
 
