@@ -20,7 +20,7 @@ The EWR results are based on the work of [Ahn et al. (2017)][ahn2017]. Implement
 
 <br/>
 
-<b><font color="darkorange">Please check [PCMDI website][description_mjo] for the latest update!</font></b><br><br>
+**Please check [PCMDI website][description_mjo] for the latest update!**
 
 ---
 

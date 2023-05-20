@@ -13,7 +13,7 @@ These results are based on the work of [Sperber and Annamalai (2014)][sperber200
 
 <br/>
 
-<b><font color="darkorange">Please check [PCMDI website][description_monsoon] for the latest update!</font></b><br><br>
+**Please check [PCMDI website][description_monsoon] for the latest update!**
 
 
 ---

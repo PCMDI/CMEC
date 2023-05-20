@@ -13,7 +13,7 @@ title: Mean Climate
 Mean state results from the PCMDI Metrics Package (PMP) are used to produce "quick-look" summary diagrams for the CMIP multi-model ensemble. The focus is on the "Historical" (coupled) and "AMIP" (atmospheric only) simulations which are well-suited for comparing with observations. We update these summaries regularly as new simulations are contributed to CMIP6, quality-control and presentation are improved, and observational datasets are updated.  
 <br/>
 
-<b><font color="darkorange">Please check [PCMDI website][description_mean_clim] for the latest update!</font></b><br><br>
+**Please check [PCMDI website][description_mean_clim] for the latest update!**
 
 
 
