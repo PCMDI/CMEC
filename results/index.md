@@ -26,9 +26,9 @@ CMEC capabilities are being used to provide objective summaries of CMIP6 simulat
 
 
 
-[mean_clim]: mean_clim
-[enso]: enso
-[variability_modes]: variability_modes
-[mjo]: mjo
-[monsoon]: monsoon
-[precip]: precip
+[mean_clim]: https://pcmdi.llnl.gov/research/metrics/mean_clim/
+[enso]: https://pcmdi.llnl.gov/research/metrics/enso/
+[variability_modes]: https://pcmdi.llnl.gov/research/metrics/variability_modes/
+[mjo]: https://pcmdi.llnl.gov/research/metrics/mjo/
+[monsoon]: https://pcmdi.llnl.gov/research/metrics/monsoon/
+[precip]: https://pcmdi.llnl.gov/research/metrics/precip/

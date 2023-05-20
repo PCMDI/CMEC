@@ -68,22 +68,6 @@ The PCMDI Metrics Package ([PMP][pmp]) is a capability that is used to produce a
 
 <p align="right"><a href="#top">Back to List</a></p>
 
----
-
-## <a name="updates"></a>Update History
-- 2020-10-08: Precipitation benchmarking newly added and Mean climate parallel coordinate and portrait plots updated.
-- 2020-07-20: MJO metrics with recent CMIP6 results
-- 2020-07-10: ENSO Metrics updated with Interactive Portrait Plot with recent CMIP6 results
-- 2020-06-19: Mean climate summaries updated with recent CMIP6 results with OBS info updated using PCMDIobs2
-- 2019-10-07: Mean climate summaries updated with recent CMIP6 results
-- 2019-09-06: ENSO metrics added
-- 2019-08-29: Mean climate metrics added
-- 2019-07-18: MJO metrics added
-- 2019-06-20: Initial public release
-- 2019-06-18: Monsoon precipitation onset, decay, and duration (CMIP5) added
-- 2019-05-31: Test release: Extratropical Modes of Variability (CMIP5 and CMIP6)
-
-<p align="right"><a href="#top">Back to List</a></p>
 
 ---
 
@@ -94,12 +78,12 @@ The efforts of the authors are supported by the [Regional and Global Climate Mod
 [pcmdi_web]: https://pcmdi.llnl.gov/research/metrics/
 [pcmdi_web_updates]: https://pcmdi.llnl.gov/research/metrics/index.html#updates
 
-[description_mean_clim]: mean_clim
-[description_variability]: variability_modes
-[description_monsoon]: monsoon
-[description_mjo]: mjo
-[description_enso]: enso
-[description_precip]: precip
+[description_mean_clim]: https://pcmdi.llnl.gov/research/metrics/mean_clim/
+[description_enso]: https://pcmdi.llnl.gov/research/metrics/enso/
+[description_variability_modes]: https://pcmdi.llnl.gov/research/metrics/variability_modes/
+[description_mjo]: https://pcmdi.llnl.gov/research/metrics/mjo/
+[description_monsoon]: https://pcmdi.llnl.gov/research/metrics/monsoon/
+[description_precip]: https://pcmdi.llnl.gov/research/metrics/precip/
 
 [lee2019]: https://link.springer.com/article/10.1007/s00382-018-4355-4
 [sperber2004]: https://doi.org/10.1007/s00382-014-2099-3
@@ -119,3 +103,4 @@ The efforts of the authors are supported by the [Regional and Global Climate Mod
 [pmp]: https://github.com/PCMDI/pcmdi_metrics
 
 [results]:{{site.baseurl}}/results
+
