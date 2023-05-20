@@ -12,7 +12,7 @@ Welcome to the results site for benchmarking simulated precipitation in Earth Sy
 
 <br/>
 
-<b><font color="darkorange">Please check [PCMDI website][description_precip] for the latest update!</font></b><br><br>
+**Please check [PCMDI website][description_precip] for the latest update!**
 
 
 ---

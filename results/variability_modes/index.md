@@ -13,7 +13,7 @@ Based on the work of Lee et al. ([2019][lee2019] and [2021][lee2021]), we presen
 
 <br/>
 
-<b><font color="darkorange">Please check [PCMDI website][description_variability_modes] for the latest update!</font></b><br><br>
+**Please check [PCMDI website][description_variability_modes] for the latest update!**
 
 
 ---
