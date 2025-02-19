@@ -19,7 +19,7 @@ The goals of the PMP are to:
   <li>Provide objective performance summaries of all CMIP DECK + Historical
   simulations</li>
   <li>Incorporate results spanning six generations of CMIP/AMIP, and to track
-  performance changes through eras of climate model evolution</li>
+  performance changes through eras of Earth System model evolution</li>
   <li>Enable modeling groups to use the PMP in their own analysis/development
   workflow, so to generate near instant feedback at the time of the model
   simulation completion, rather than await for feedback through the multi-year
