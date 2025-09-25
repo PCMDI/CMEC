@@ -10,6 +10,9 @@
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/cmec-favcon.png">
     <title>{{ page.title }}</title>
 
+    {% if site.us_gov_site %}
+    <link rel="stylesheet" href="{{ '/assets/uswds/css/uswds.min.css' | relative_url }}">
+    {% endif %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
@@ -26,8 +29,16 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/googleAnalyticsTag.js"></script>
+
+    {% if site.us_gov_site %}
+    <!-- U.S. Web Design System (USWDS) -->
+    <script src="{{ '/assets/uswds/js/uswds-init.min.js' | relative_url }}"></script>
+    {% endif %}
   </head>
   <body>
+    {% if site.us_gov_site %}
+        {% include usa_banner.html %}
+    {% endif %}
     {% include nav.html %}
 
     <section class="page-header">
@@ -43,5 +54,9 @@
         {% include footer.html %}
       </footer>
     </section>
+    {% if site.us_gov_site %}
+    <!-- Execute uswds.min.js after all HTML content in the body is loaded -->
+    <script src="{{ '/assets/uswds/js/uswds.min.js' | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
